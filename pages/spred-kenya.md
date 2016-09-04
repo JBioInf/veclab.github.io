@@ -23,6 +23,5 @@ study will also improve on the current understanding on the characteristics of v
 
 <p><strong>Collaborators:</strong> Sandra dos Santos Chavez, Clayton Onyango, Jennifer Verani </p>
 </div>
-</div><!-- /.row -->
 
 <hr>
