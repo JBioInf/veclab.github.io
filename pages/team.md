@@ -27,11 +27,14 @@ permalink: "/team/"
 <hr>
 
 <div class="row">
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/tom-yates"><img class="publication" src="{{ site.url }}/images/Tom-Yates.jpg" alt=""></a></div><a href="{{ site.url }}/tom-yates">Tom Yates</a><div>Visiting scientist</div></div>
+
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/lilian-Mwango"><img class="publication" src="{{ site.url }}/images/Lilian-Mwango.jpeg" alt=""></a></div><a href="{{ site.url }}/lilian-mwango">Lilian Mwango</a><div>Data Manager</div></div>
 
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/mike-mwanga"><img class="publication" src="{{ site.url }}/images/Mike-Mwanga.jpg" alt=""></a></div><a href="{{ site.url }}/mike-mwanga">Mike Mwanga</a><div>Assistant research officer</div></div>
 
-<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/john-aketch"><img class="publication" src="{{ site.url }}/images/John-Aketch.jpg" alt=""></a></div><a href="{{ site.url }}/john-aketch">John Aketch</a><div>Assistant research officer</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/john-aketch"><img class="publication" src="{{ site.url }}/images/John-Aketch.jpg" alt=""></a></div><a href="{{ site.url }}/john-aketch">John Aketch</a><div>Assistant research officer</div></div>
+
+<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/grieven-otieno"><img class="publication" src="{{ site.url }}/images/Grieven-Otieno.jpg" alt=""></a></div><a href="{{ site.url }}/grieven-otieno">Grieven Otieno</a><div>Data Manager</div></div>
 </div>
 
 <hr>
@@ -60,17 +63,17 @@ permalink: "/team/"
 <div class="row">
   <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Shadrack-Baraka.jpg" alt=""></div><strong>Shadrack Baraka</strong><div>Project manager</div></div>
 
-  <div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Grieven-Otieno.jpg" alt="" height="90" width="100"></div><strong>Grieven Otieno</strong><div>Data manager</div>
 </div>
 
 <hr>
 
-<h6>Alumni</h6>
+<h6>Former Members</h6>
 <div class="row">
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Emelda-Okiro.jpg" alt="" height="120" width="110"></div>Emelda Okiro</div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Timothy-Kinyanjui.jpg" alt="" height="120" width="110"></div>Tim Kinyanjui</div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Betty-Owor.jpg" alt="" height="120" width="110"></div>Betty Owor</div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Rachel-Ochola-2.jpg" alt="" height="120" width="110"></div>Rachel Ochola</div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/tom-yates"><img class="publication" src="{{ site.url }}/images/Tom-Yates.jpg" alt=""></a></div><a href="{{ site.url }}/tom-yates">Tom Yates</a><div></div></div>
 <div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Clayton-Onyango.jpg" alt="" height="100" width="110"></div>Clayton Onyango</div>
 </div>
 <hr>
