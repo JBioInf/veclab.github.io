@@ -62,7 +62,6 @@ permalink: "/team/"
 <h6>Operations</h6>
 <div class="row">
   <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><img src="{{ site.url }}/images/Shadrack-Baraka.jpg" alt=""></div><strong>Shadrack Baraka</strong><div>Project manager</div></div>
-
 </div>
 
 <hr>
