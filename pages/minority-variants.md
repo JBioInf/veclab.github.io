@@ -26,7 +26,5 @@ variants fixation during outbreaks, could provide additional data to resolve tra
 
 <p><strong>Collaborators:</strong> Matt Cotten, Paul Kellam <p/>
 
-</div>
-</div><!-- /.row -->
 
 <hr>
