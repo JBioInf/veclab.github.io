@@ -14,7 +14,7 @@ header: no
 <h6>Lilian Mwango (BSc,MSc)</h6>
 
 <p class="text-justify">
-I hold a bachelors degree in Information Sciences from Moi university and a Masters degree in Information Systems and 
+I hold a bachelors of science degree in Information Sciences from Moi university and a Masters degree in Information Systems and 
 Data Management from the University of Aberdeen funded by the Commonwealth Scholarship Commission. As the group's data archivist, 
 my focus is on implementing research data integration frameworks, perform quality assurance and curation procedures as well 
 as building and maintaining the research data archives. This enhances long-term data preservation, discovery and 
