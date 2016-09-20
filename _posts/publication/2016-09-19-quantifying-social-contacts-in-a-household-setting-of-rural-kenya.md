@@ -19,15 +19,16 @@ author: James
 </figure>
 
 <p class="text-justify lead">
-Our cultural, economic and mobility characteristics determine whom we interact with and for how long. Everyday, we interact with people from different social, demographic, economic, cultural and mobility backgrounds. 
+Everyday, we interact with people from different social, demographic, economic, cultural and mobility backgrounds. 
 These backgrounds determine whom we meet, where we meet, and the duration of the interaction. 
 </p>
+
 <p class="text-justify lead">
 In epidemiology, these characteristics are important in the spread of infections that require close or direct physical contact, such influenza, RSV, measles and other respiratory illnesses. For example, 
 the probability of a school child acquiring infection from fellow students or siblings could be higher compared to acquiring it from a friend. This can be explained by the fact that, a school child 
 will spend more time either at school or at home. Spending more time at school, increasing their chances of acquiring an infection from fellow students at these locations.
-
 </p>
+
 <p class="text-justify lead">
 Data on individual interactions and how they shape the transmission events is difficult to collect and obtain. A novel way of collecting this data is use of electronic proximity sensors 
 where participants wear the sensors for a number of days. Each sensor detects and records the “sighting” of a similar tag worn by different participant when they come to close proximity. 
@@ -42,7 +43,7 @@ background such as Kenya, we set out to collect close proximity contact data fro
 <p class="text-justify lead">
 Each individual, other than one infant, was given a sensor to wear all the time for 4 days. They would wear the sensor from the time they wake in the morning up to the time they go
 to sleep in the night. In addition to the sensor’s proximity data, we collected each individual’s views concerning the sensors for example what do they think of the devices? Would 
-they be willing to wear them for longer periods? What kind of questions were they asked when seen wearing them? Were they concerned about their privacy? And so on.
+they be willing to wear them for longer periods? What kind of questions were they asked when seen wearing them? Were they concerned about their privacy?
 
 </p>
 <p class="text-justify lead">
@@ -52,14 +53,13 @@ community engagement describing the study tools and procedures was important to 
 we demonstrated the presence of strong ties especially between school going children. In three of the five households with contemporaneous data, adults formed the links between
 the households. Lastly, we also demonstrated a circadian rhythm of high interactions in the early morning, noon and evening, with dips occurring in between. 
 This can be explained by regular routines of household members.
-
 </p>
 
 <p class="text-justify lead">
-These results, while not easily generalizable to other contexts, are important when making considerations for future study designs covering wider populations.
-Currently, plans are underway to conduct bigger studies within Kilifi, covering schools and households located in an urban and a rural setting.
+Although these results may not be generalizable to other contexts, they are important  for future study designs that involve larger populations.
+Currently, plans are underway to conduct large studies that involve schools and households located in urban and rural settings within Kilifi.
 Results from human network modeling are important in designing interventions against transmission of infections spread via close contact, 
-especially those that are not covered by available vaccines.
+especially those that are not covered by current vaccines.
 </p>
 
 <section>
