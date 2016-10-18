@@ -6,7 +6,7 @@ header: no
 ---
 <div class = "row">
 <div class = "small-4 columns">
-<img src="{{ site.url }}/images/Grieven-Otieno.jpeg" alt="" height="200" width="225">
+<img src="{{ site.url }}/images/Grieven-Otieno.jpg" alt="" height="200" width="225">
 </div>
 
 
