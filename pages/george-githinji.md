@@ -24,7 +24,7 @@ header: no
 <p class="text-justify">
 I am an IDeAL early career postdoctoral fellow at the <a href="http://www.kemri-wellcome.org/" target="blank">KEMRI-Wellcome Trust Research Programme</a>. 
 I utilise bioinformatics approaches to study virus evolution and transmission patterns during outbreaks. 
-My current project investigates the <a href="" target="blank">role of minority variants</a> in virus evolution and in reconstructing virus transmission chains.  
+My current project investigates the <a href="{{ site.url }}/minority-variants-study" target="blank">role of minority variants</a> in virus evolution and in reconstructing virus transmission chains.  
 </p>
 
 <p class="text-justify">
