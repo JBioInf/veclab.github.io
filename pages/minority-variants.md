@@ -11,7 +11,7 @@ header: no
 </div>
 
 <div class="large-8 columns">
-<p><strong>Exploring the role of minority variants in elucidating virus transmission and evolution</strong>
+<p><strong>Exploring the role of minority variants in RSV transmission and evolution</strong>
 <p><strong> Study PI: </strong><a href="{{ site.url }}/george-githinji"> George Githinji (PhD)</a></p>
 
 <p class="text-justify">
@@ -24,7 +24,7 @@ This project aims to explore whether changes in the composition of minor variant
 variants fixation during outbreaks, could provide additional data to resolve transmission patterns. 
 </p>
 
-<p><strong>Collaborators:</strong> Matt Cotten, Paul Kellam <p/>
+<p><strong>Collaborators:</strong> Colin Worby, Matt Cotten, Pjotr Prins<p/>
 
 
 <hr>
