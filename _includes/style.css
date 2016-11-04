@@ -1,0 +1,13 @@
+.nobull {
+list-style-type: none;
+padding: 0;
+margin: 0;
+}
+
+
+  my-email::after {
+    content: attr(data-domain);
+  }
+  my-email::before {
+    content: attr(data-user);
+  }

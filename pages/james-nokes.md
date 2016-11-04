@@ -18,7 +18,6 @@ header: no
 </div>
 
 
-
 <div class = "row">
 <!-- contact block -->
 <div class = "small-12 columns">
