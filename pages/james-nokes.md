@@ -10,13 +10,12 @@ header: no
 <div class="row fullWidth">
 <div class="large-12 columns">
 <ul class="breadcrumbs">
-  <li><a href="#">Home</a></li>
+  <li><a href="{{ site.url }}/">Home</a></li>
   <li><a href="{{ site.url }}/team">Team</a></li>
   <li class="unavailable"><a href="#">James Nokes</a></li>
 </ul>
 </div>
 </div>
-
 
 
 <div class = "row">
