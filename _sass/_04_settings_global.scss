@@ -191,7 +191,7 @@ $global-radius: 3px;
 // $medium: $medium-up;
 // $large: $large-up;
 
-// We use this as cursors values for enabling the option of having custom cursors in the whole site's stylesheet
+// We use this as cursors values for enabling the option of having custom cursors in the whole sites stylesheet
 // $cursor-crosshair-value: crosshair;
 // $cursor-default-value: default;
 // $cursor-pointer-value: pointer;
@@ -202,7 +202,7 @@ $global-radius: 3px;
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 
 // $include-html-type-classes: $include-html-classes;
-
+ 
 // We use these to control header font styles
 // $header-font-family: $font-family-serif;
 // $header-font-weight: $font-weight-normal;
@@ -327,15 +327,16 @@ $list-side-margin: 1.3rem;
 // $include-html-accordion-classes: $include-html-classes;
 
 $accordion-navigation-padding: rem-calc(12);
-// $accordion-navigation-bg-color: #ffffff;
-// $accordion-navigation-hover-bg-color: $grey-1;
-// $accordion-navigation-active-bg-color: $grey-1;
-// $accordion-navigation-font-color: $jet;
-// $accordion-navigation-font-size: rem-calc(16);
-// $accordion-navigation-font-family: $body-font-family;
+$accordion-navigation-bg-color: #ci-7; //#ffffff
+ $accordion-navigation-hover-bg-color: $ci-2; //formerly $grey-1
+ $accordion-navigation-active-bg-color: $ci-6; //formerly $grey-1
+ $accordion-navigation-font-size: rem-calc(15);
+$accordion-navigation-font-family: $body-font-family;
+$accordion-navigation-font-weight: $font-weight-normal;
+$accordion-navigation-font-weight-active: $accordion-navigation-font-weight;
 
-// $accordion-content-padding: $column-gutter/2;
-$accordion-content-active-bg-color: $body-bg;
+ $accordion-content-padding: rem-calc(5); //column-gutter/2
+//$accordion-content-active-bg-color: $ci-7; //body-bg
 
 // 02. Alert Boxes
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -739,7 +740,7 @@ $crumb-slash: "/";
 // $joyride-tip-radius: 4px;
 // $joyride-tip-position-offset: 22px;
 
-// Here, we're setting the tip font styles
+// Here, were setting the tip font styles
 // $joyride-tip-font-color: $white;
 // $joyride-tip-font-size: rem-calc(14);
 // $joyride-tip-header-weight: $font-weight-bold;
@@ -788,8 +789,8 @@ $crumb-slash: "/";
 // $include-html-label-classes: $include-html-classes;
 
 // We use these to style the labels
-// $label-padding: rem-calc(4 8 4);
-// $label-radius: $global-radius;
+ $label-padding: rem-calc(4 8 4);
+ $label-radius: $global-radius;
 
 // We use these to style the label text
 // $label-font-sizing: rem-calc(11);
@@ -933,18 +934,18 @@ $crumb-slash: "/";
 // We use these to set the list-item properties
 // $pagination-li-float: $default-float;
 // $pagination-li-height: rem-calc(24);
-// $pagination-li-font-color: $jet;
+// $pagination-li-font-color: #222;
 // $pagination-li-font-size: rem-calc(14);
 // $pagination-li-margin: rem-calc(5);
 
 // We use these for the pagination anchor links
 // $pagination-link-pad: rem-calc(1 10 1);
-// $pagination-link-font-color: $aluminum;
+// $pagination-link-font-color: $#999;
 // $pagination-link-active-bg: scale-color($white, $lightness: -10%);
 
 // We use these for disabled anchor links
 // $pagination-link-unavailable-cursor: default;
-// $pagination-link-unavailable-font-color: $aluminum;
+// $pagination-link-unavailable-font-color: #999;
 // $pagination-link-unavailable-bg-active: transparent;
 
 // We use these for currently selected anchor links
@@ -960,7 +961,7 @@ $crumb-slash: "/";
 // $include-html-panel-classes: $include-html-classes;
 
 // We use these to control the background and border styles
-$panel-bg: $body-bg;
+// $panel-bg: $grey-1;
 // $panel-border-style: solid;
 // $panel-border-size: 1px;
 
@@ -969,8 +970,8 @@ $panel-bg: $body-bg;
 // $panel-border-color: scale-color($panel-bg, $lightness: $panel-function-factor);
 
 // We use these to set default inner padding and bottom margin
-// $panel-margin-bottom: rem-calc(20);
-// $panel-padding: rem-calc(20);
+// $panel-margin-bottom: rem-calc(10);
+// $panel-padding: rem-calc(5);
 
 // We use these to set default font colors
 // $panel-font-color: $oil;
@@ -1141,17 +1142,18 @@ $side-nav-list-margin: rem-calc(0 0 0 0);
 // We use these to control link styles.
 $side-nav-link-color: $primary-color;
 $side-nav-link-color-active: scale-color($side-nav-link-color, $lightness: -40%);
-$side-nav-link-color-hover: scale-color($side-nav-link-color, $lightness: -40%);
+$side-nav-link-color-hover: $ci-2;
 $side-nav-font-size: rem-calc(16);
+$side-nav-bg: $ci-7;
 
-// $side-nav-link-bg-hover: hsla(0, 0, 0, 0.025);
+ //$side-nav-link-bg-hover: hsla(0, 0, 0, 0.025);
 // $side-nav-link-margin: 0;
 // $side-nav-link-padding: rem-calc(7 14);
-// $side-nav-font-size: rem-calc(14);
-// $side-nav-font-weight: $font-weight-normal;
-// $side-nav-font-weight-active: $side-nav-font-weight;
-// $side-nav-font-family: $body-font-family;
-// $side-nav-font-family-active: $side-nav-font-family;
+ $side-nav-font-size: rem-calc(14);
+ $side-nav-font-weight: $font-weight-normal;
+ $side-nav-font-weight-active: $side-nav-font-weight;
+ $side-nav-font-family: $body-font-family;
+ $side-nav-font-family-active: $side-nav-font-family;
 
 // We use these to control heading styles.
 // $side-nav-heading-color: $side-nav-link-color;
@@ -1162,7 +1164,7 @@ $side-nav-font-size: rem-calc(16);
 // We use these to control border styles
 $side-nav-divider-size: 1px;
 $side-nav-divider-style: solid;
-$side-nav-divider-color: $grey-1;
+$side-nav-divider-color: $grey-5;
 
 
 

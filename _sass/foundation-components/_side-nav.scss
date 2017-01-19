@@ -9,6 +9,7 @@
 //
 
 $include-html-nav-classes: $include-html-classes !default;
+$side-nav-bg: $ci-7;
 
 // We use this to control padding.
 $side-nav-padding: rem-calc(14 0) !default;
@@ -19,13 +20,13 @@ $side-nav-list-position: outside !default;
 $side-nav-list-margin: rem-calc(0 0 7 0) !default;
 
 // We use these to control link styles.
-$side-nav-link-color: $primary-color !default;
-$side-nav-link-color-active: scale-color($side-nav-link-color, $lightness: 30%) !default;
-$side-nav-link-color-hover: scale-color($side-nav-link-color, $lightness: 30%) !default;
+$side-nav-link-color: $ci-8;
+$side-nav-link-color-active: $ci-6;
+$side-nav-link-color-hover: scale-color($side-nav-link-color, $lightness: 40%);
 $side-nav-link-bg-hover: hsla(0, 0, 0, 0.025) !default;
 $side-nav-link-margin: 0 !default;
 $side-nav-link-padding: rem-calc(7 14) !default;
-$side-nav-font-size: rem-calc(14) !default;
+$side-nav-font-size: rem-calc(16);
 $side-nav-font-weight: $font-weight-normal !default;
 $side-nav-font-weight-active: $side-nav-font-weight !default;
 $side-nav-font-family: $body-font-family !default;
@@ -39,8 +40,8 @@ $side-nav-heading-text-transform: uppercase !default;
 
 // We use these to control border styles
 $side-nav-divider-size: 1px !default;
-$side-nav-divider-style: solid !default;
-$side-nav-divider-color: scale-color($white, $lightness: 10%) !default;
+$side-nav-divider-style: dotted ;
+$side-nav-divider-color: scale-color($ci-8, $lightness: 10%) ;
 
 
 //
@@ -88,6 +89,7 @@ $side-nav-divider-color: scale-color($white, $lightness: 10%) !default;
       color: $side-nav-link-color-active;
       font-weight: $side-nav-font-weight-active;
       font-family: $side-nav-font-family-active;
+      border-bottom: 1px dotted #A1D044;
     }
 
     &.divider {
@@ -113,4 +115,29 @@ $side-nav-divider-color: scale-color($white, $lightness: 10%) !default;
   @if $include-html-nav-classes {
     .side-nav { @include side-nav; }
   }
+}
+
+.side-nav .sub-arrow:after {
+border-color: #643f15 transparent transparent transparent;
+border-image: none;
+border-style: solid;
+border-width: 6px;
+content: "";
+display: block;
+height: 0;
+position: absolute;
+right: 2em;
+width: 0;
+margin-top: -.95em;
+}
+
+.side-nav li:hover .sub-arrow:after {
+border-color: transparent transparent #643f15 transparent  ;
+
+}
+
+.side-nav  li a:before {
+border-color: transparent transparent transparent  #643f15 ;
+margin-right:20px;
+
 }

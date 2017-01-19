@@ -1,179 +1,242 @@
 ---
 layout: page-fullwidth
-subheadline: "Research"
 permalink: "/research/"
 header: no
 ---
 
+<!-- 1 -->
+
+<section role="main" class="scroll-container">
 <div class="row">
- <div class="large-4 columns">
- 
-  <img class="research" src="{{ site.url }}/images/spred.png" alt="">
- </div>
-    
-<div class="large-8 columns">
- <p><strong>Studying the Pathways of Respiratory Virus Diseases (SPReD)</strong></p>
+	<div class="large-4 medium-4 columns"> <!--side nav -->
+		<div class="hide-for-small">
+			<div class="sidebar">
+			
+				<p></p>
+				<nav class="side-nav">
+					<ul class="side-nav nobull">
+						
+						<li class="active"><a href="#">SPRED<span class="sub-arrow"></span></a>
+							<ul class="nobull active">
+								<li><a href="{{ site.url }}/spred-kenya">Country-SPReD</a></li>
+      							<li><a href="{{ site.url }}/intervention-modelling">Intervention Modelling</a></li>
+     							<li><a href="{{ site.url }}/local-spred">Local SPReD</a></li>
+      							<li><a href="{{ site.url }}/genomics-and-transmission-study">Genomics and Transmission</a></li>
+      							<li><a href="{{ site.url }}/minority-variants-study">Minority Variants</a></li>
+      							<li><a href="{{ site.url }}/integrated-data-modelling">Integrated Data Modelling</a></li>
+      							<li><a href="{{ site.url }}/rsv-on1-phylogeography">Phylogeography of RSV ON1</a></li>
+      							
+      							<li><a href="{{ site.url }}/social-networks-study">Social Networks</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="{{ site.url }}/ripek">RIPEK</a>
+						</li>
+						<li>
+    						<a href="{{site.url}}/rsv-vaccine-modelling">RSV Vaccine Modelling</a>
+  						</li>
+  						<li>
+    						<a href="{{site.url}}/infection-dynamics-in-demographic-transition">Infection Dynamics in Demographic Transition</a>
+  						</li>
+  						<li>
+    						<a href="{{site.url}}/quantifying-rsv-protective-immunity-correlates">Quantifying RSV Protective Immunity Correlates</a>
+  						</li>
+  						<li>
+    						<a href="{{site.url}}/immunology-of-severe-rsv-disease">Immunology of Severe RSV Disease</a>
+  						</li>
+  						<li>
+    						<a href="{{site.url}}/who-acquires-infection-from-whom2">Who Acquires Infection From Whom?</a>
+  						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+
+	<div class="large-8 medium-8 columns"> <!--container -->
+		<div class="large-12 columns">
+			<h3 class="light centered-text" itemprop="headline">Studying the Pathways of Respiratory Virus Diseases (SPReD)</h3>
+			<p>
+			<img align="justify" src="{{ site.url }}/images/spred.png" alt="" height="340" width="340">
+			</p>
+			<p class="text-justify">
+			<strong>SPReD</strong> aims to advance understanding of the nature of spread of respiratory viruses (RSV, influenza, coronavirus, rhinovirus) at 
+  			 different scales of observation from the individual, household and school, local community to countrywide, 
+  			 and use this information to innovate interventions.  The work represents an integration of epidemiological, 
+  	 		 virus sequence, contact and mobility data.
+			</p>
+			<p><Strong>Funding:</Strong>Wellcome Trust Senior Investigator Award</p>
+
+			<p><Strong>Collaborators:</Strong> Graham Medley, Pat Cane, Matt Cotten, Paul Kellam, Matt Keeling, Thomas House, Ciro Catuto, Jennifer Verani</p>
+			
+			<hr>
+			<h4>Sub-Studies</h4>
+			</p>
+			<div class="row">
+				<div class="surround">
+				<div class="small-3  columns">						
+							<a href="#"><img src="{{ site.url }}/images/spred-kenya2.jpg" alt="" height="300" width="160"></a>
+				</div>
+				<div class="small-9 columns">			
+						<strong>Mapping transmission pathways of respiratory viruses in Kenya (SPReD-Kenya)</strong>
+						<hr>
+						This is a collaborative project utilizing respiratory specimens and associated de-identified 
+						clinical data collected over a three-year period (2014-2016) from an existing influenza surveillance 
+						platform ... <a href="{{ site.url }}/spred-kenya"><span class="label">more</span></a> 			
+				</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="surround">
+				<div class="small-3 columns">
+					<center>
+						<center>
+							<a href="#"><img src="{{ site.url }}/images/intervention-modelling.png" alt="" ></a>
+						</center>
+					</center>
+				</div>
+				<div class="small-9 columns">
+					<p>
+						<strong>Modelling transmission and control interventions (Intervention Modelling)</strong>
+						<hr>
+						Work is planned to develop transmission dynamic models of respiratory viruses within the Kenya setting that 
+						integrate a spatial ...
+						<a href="{{ site.url }}/intervention-modelling"><span class="label">more</span></a> 
+					</p>
+				</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="surround">
+				<div class="small-3 columns">
+					<center>
+						<center>
+							<a href="#"><img src="{{ site.url }}/images/local-spred.png" alt=""  ></a>
+						</center>
+					</center>
+				</div>
+				<div class="small-9 columns">
+					<p>
+						<strong>Transmission Pathways of Viral Respiratory Infections in Kilifi County (Local-SPReD)</strong>
+						<hr>
+						Acute respiratory infections (ARI) are a leading cause of morbidity and mortality among people of all ages, 
+						with majority of the burden occurring in low-resource countries ...
+						<a href="{{ site.url }}/local-spred"><span class="label">more</span></a> 
+					</p>
+				</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="surround">
+				<div class="small-3 columns">
+					<center>
+						<center>
+							<a href="#"><img src="{{ site.url }}/images/Agoti-2015.png" alt="" height="300" width="160" ></a>
+						</center>
+					</center>
+				</div>
+				<div class="small-9 columns">
+					<p>
+						<strong>Genome Analysis to Track Transmission and Evolution of Respiratory Virus Epidemics</strong>
+						<hr>
+						A wide range of respiratory viruses co-circulates in human populations and cause overlapping respiratory symptoms. 
+						...
+						<a href="{{ site.url }}/genomics-and-transmission-study"><span class="label">more</span></a> 
+					</p>
+				</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="surround">
+				<div class="small-3 columns">
+					<center>
+						<center>
+							<a href="#"><img src="{{ site.url }}/images/minority-variants.png" alt="" height="300" width="160" ></a>
+						</center>
+					</center>
+				</div>
+				<div class="small-9 columns">
+					<p>
+						<strong>Exploring the role of minority variants in RSV transmission and evolution</strong>
+						<hr>
+						Whole genome consensus sequence data provides information that represents the dominant virus subtype. It does not 
+						provide sufficient information for resolving transmission ...
+						<a href="{{ site.url }}/minority-variants-study"><span class="label">more</span></a> 
+					</p>
+				</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="surround">
+				<div class="small-3 columns">
+					<center>
+						<center>
+							<a href="#"><img src="{{ site.url }}/images/WAIFW.png" alt="" height="300" width="160" ></a>
+						</center>
+					</center>
+				</div>
+				<div class="small-9 columns">
+					<p>
+						<strong>Integrating sequence and epidemiological data to define RSV transmission patterns</strong>
+						<hr>
+						In order to control diseases, we first need to increase our understanding of transmission. This can be aided 
+						by analyzing as much data as possible within a single framework ...
+						<a href="{{ site.url }}/integrated-data-modelling"><span class="label">more</span></a> 
+					</p>
+				</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="surround">
+				<div class="small-3 columns">
+					<center>
+						<center>
+							<a href="#"><img src="{{ site.url }}/images/on1-phylogeography.png" alt="" height="250" width="160" ></a>
+						</center>
+					</center>
+				</div>
+				<div class="small-9 columns">
+					<p>
+						<strong>Characterizing the genomic diversity, evolution and phylogeography of respiratory syncytial virus genotype ON1 in Kenya</strong>
+						<hr>
+						A new variant of RSV was first identified in 2010 in Ontario Canada, named ON1, and subsequently spread globally, including Kenya. 
+						...
+						<a href="{{ site.url }}/rsv-on1-phylogeography"><span class="label">more</span></a> 
+					</p>
+				</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="surround">
+				<div class="small-3 large-3 columns">
+					<center>
+						<center>
+							<a href="#"><img src="{{ site.url }}/images/community-contacts-study.png" alt="" height="300" width="160" ></a>
+						</center>
+					</center>
+				</div>
+				<div class="small-9 large-9 columns">
+					<p>
+						<strong>Understanding social contact networks and the spread of respiratory infections</strong>
+						<hr>
+						Common respiratory infections such as flu spread when we come into contact with germs emitted by sick individuals 
+						through coughing or sneezing ...
+						<a href="{{ site.url }}/social-networks-study"><span class="label">more</span></a> 
+					</p>
+				</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
   
-  <p class="text-justify">
-   SPReD aims to advance understanding of the nature of spread of respiratory viruses (RSV, influenza, coronavirus, rhinovirus) at 
-   different scales of observation from the individual, household and school, local community to countrywide, 
-   and use this information to innovate interventions.  The work represents an integration of epidemiological, 
-   virus sequence, contact and mobility data.
-   </p>
-       
- <p><strong>Funding:</strong> Wellcome Trust Senior Investigator Award</p>
-       
-  <p><strong>Collaborators: </strong> Graham Medley, Pat Cane, Matt Cotten, Paul Kellam, Matt Keeling, Thomas House, Ciro Catuto, Jennifer Verani </p>
-
-<p> There are several
-<a href="#" data-dropdown="hover1" data-options="is_hover:true; hover_timeout:5000">sub-studies within SPReD </a>
-<ul id="hover1" class="f-dropdown" data-dropdown-content>
- <li><a href="{{ site.url }}/spred-kenya">Country-SPReD</a></li>
- <li><a href="{{ site.url }}/intervention-modelling">Intervention-modelling</a></li>
- <li><a href="{{ site.url }}/local-spred">Local-SPReD</a></li>
- <li><a href="{{ site.url }}/genomics-and-transmission-study">Genomics and transmission</a></li>
- <li><a href="{{ site.url }}/minority-variants-study">Role of minority variants</a></li>
- <li><a href="{{ site.url }}/integrated-data-modelling">Integrated data modelling</a></li>
- <li><a href="{{ site.url }}/rsv-on1-phylogeography">Phylogeography of RSV ON1</a></li>
- <li><a href="{{ site.url }}/social-networks-study">Social networks study</a></li>
-</ul>
-</p>
-
-<div>
-
-  </div>
-</div>
-</div><!-- /.row -->
-
-<hr>
-
- <div class="row">
-  <div class="large-4 columns">
-  <img class="research" src="{{ site.url }}/images/rota_positive_2010_2016.png" alt="">
-  </div>
-
-  <div class="large-8 columns">
-  <p><strong>Rotavirus Immunization Program Evaluation Kenya (RIPEK)</strong></p>
-  <p class="text-justify">
-  A comprehensive countrywide evaluation of the introduction of rotavirus vaccination in Kenya. This is collaborative with CDC-Kenya, WRP-Kenya,
-  Kenya MoH, and CDC and Emory Atlanta, USA.  Central is a before-after evaluation of impact on disease incidence which will also assess 
-  replacement and origins of genotypes and variants using partial and whole genome sequencing. 
-  </p>
-  
-  <p><strong>Funding:</strong> GAVI</p>
-  <p><strong>Collaborators:</strong> Jessica Cowden, Jennifer Verani, Collins Tabu, Jaqueline Tate, Umesh Parashar, Rob Breiman </p>
-
-  </div>
-</div>
-
-<hr>
-
-<div class="row">
-  <div class="large-4 columns">
-  <figure>
-   <img class="research" src="{{ site.url }}/images/rsv-modelling.png" alt="">
-  <center><figcaption>Kinyanjui et al, PLoS ONE 2015</figcaption></center>
-  </figure>
-  </div>
-
-  <div class="large-8 columns">
-  <p><strong>RSV Vaccine Modelling </strong></p>
-  <p class="text-justify">
-  Projections of the population-level impact of vaccination against respiratory syncytial virus (RSV) using transmission dynamic models. 
-  This a GSK contracted study to inform vaccine design and implementation and is collaborative with MAEMOD at the Mahidol-Oxford Research 
-  Unit (MORU), WT Major Overseas Programme in Bangkok, Thailand.  A confidentiality agreement prevents saying more
-  </p>
-    
- <p><strong>Funding:</strong> GSK Vaccines and Biologicals</p>
- <p><strong>Collaborators:</strong> Tim Kinyanjui, Wirichada Pan-Ngum, Lisa White,Thierry Van Effelterre, Sylvia Taylor </p>
-
-  </div>
-</div>
-
-<hr>
-
-<div class="row">
-  <div class="large-4 columns">
-  <figure>
-  <img src="{{ site.url }}/images/decide.png" alt="">
-  <center><figcaption>Poletti et al, BMC Med 2015</figcaption></center>
-  </figure>
-  </div>
-
-  <div class="large-8 columns">
-  <p><strong>Infection Dynamics in a Demographic Transition</strong></p>
-  <p class="text-justify">
-  The impact of Demographic Changes on Infectious DisEases transmission and control in middle/low income countries (DECIDE). 
-  The demographic transition has implications to infectious disease epidemiology and intervention design. With Bocconi University 
-  we are quantifying urban-rural social mixing in coastal Kenya which will support Individual Based Modelling (IBM) of infection transmission.  
-  </p>
-    
-  <p><strong>Funding:</strong> European Research Council</p>
- <p><strong>Collaborators: </strong> Emanuele del Feve, Piero Poletti, Alessia Melegaro, Piero Manfredi, John Williams, Simon Gregson </p>
-
-  </div>
-</div>
-
-<hr>
-
-<div class="row">
-  <div class="large-4 columns">
-  <img class="research" src="{{ site.url }}/images/path.png" alt="">
-  </div>
-
-  <div class="large-8 columns">
-  <p><strong>Quantifying RSV Protective Immunity Correlates</strong></p>
-  
-  <p class="text-justify">
-  PATH favour the maternal vaccine approach to boost infant passive immunity and delay the first, most severe, infection. 
-  To support this we are undertaking serological studies of RSV passive antibody dynamics, evaluating alternative assays 
-  to PRNT and identify the protective efficacy of passive immunity in a cohort and case control study.
-  </p>
-    
-  <p><strong>Funding:</strong> PATH Vaccine Solutions</p>
-   <p><strong>Collaborators: </strong> Deborah Higgins </p>
-  </div>
-</div>
-
-<hr>
-
-<div class="row">
-  <div class="large-4 columns">
-  <img class="research" src="{{ site.url }}/images/rsv-immunology-studies.png" alt="">
-  </div>
-
-  <div class="large-8 columns">
-  <p><strong>Immunology of Severe RSV Disease</strong></p>
-  
-  <p class="text-justify">
-    In this study we use systems immunology approaches to identify biomarkers
-    of severe Respiratory Syncytial Virus infection in infancy. We use a wide
-    range of systems tools ranging from transcriptomics, mass cytometry,
-    metabolomics and studies of the respiratory microbiome to identify host
-    factors that are uniquely expressed in severe disease. 
-  </p>
-    
-   <p><strong>Funding:</strong> Wellcome Trust Training Fellowship</p>
-   <p><strong>Collaborators: </strong> Andrew Pollard, Peter Openshaw, Helder Nakaya</p>
-
-  </div>
-</div>
-<hr>
-<div class="row">
-  <div class="large-4 columns">
-  <img class="research" src="{{ site.url}}/images/household-study.png" alt="household-study">
-  </div>
-
-  <div class="large-8 columns">
-  <p><strong>The Household Cohort Study: Who Acquires Infection From Whom?</strong></p>
-  
-  <p class="text-justify">
-  A cohort of 47 households (493 members) was intensively sampled for six months from December 2009 yielding 16928 nasal specimens. A multiplex PCR assay targeting 16 respiratory pathogens was used to screen the specimens. The arising multiple infection data has been used to define and quantify (i) who infects the vulnerable infants; (ii) factors influencing virus shedding; (iii) the risk of asymptomatic infections; (iii) co-circulation of viruses and (iv) within- and between-host virus evolution using whole genome and minority variants analysis.
-  </p>
-
-  <p><strong>Funding:</strong> Wellcome Trust Programme Grant </p>
-
-  </div>
 </div>
 
 
