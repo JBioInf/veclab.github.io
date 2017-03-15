@@ -24,7 +24,12 @@ permalink: "/publications-page3/"
 <hr>
 
 <div class="row">
-<div class="small-9 columns">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/anderson-vaccine-2013.png" alt="">
+</div>
+
+<div class="small-10 columns">
 <h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/23598484" target="_blank">Strategic priorities for respiratory syncytial virus (RSV) vaccine development. Vaccine. 2013 Apr 18;31:B209-15. </a></h6>
 <p>Anderson LJ, Dormitzer PR, Nokes DJ, Rappuoli R, Roca A, Graham BS.</p>
 <div class="small-12 columns">
@@ -40,15 +45,17 @@ permalink: "/publications-page3/"
 </div>
 </div>
 
-<div class="small-3 columns">
- <img class="publication" src="{{ site.url }}/images/article_img/anderson-vaccine-2013.png" alt="">
-</div>
 </div>
 
 <hr>
 
 <div class="row">
-<div class="small-9 columns">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/Fuller-plosone-2013.png" alt="">
+</div>
+
+<div class="small-10 columns">
 <h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/23573177" target="_blank"> Estimation of the national disease burden of influenza-associated severe acute respiratory illness in Kenya and Guatemala: a novel methodology.</a></h6>
 <p>Fuller JA, Summers A, Katz MA, Lindblade KA, Njuguna H, Arvelo W, Khagayi S, Emukule G, Linares-Perez N, McCracken J, Nokes DJ</p>
 <div class="small-12 columns">
@@ -64,15 +71,17 @@ permalink: "/publications-page3/"
 </div>
 </div>
 
-<div class="small-3 columns">
- <img class="publication" src="{{ site.url }}/images/article_img/Fuller-plosone-2013.png" alt="">
-</div>
 </div>
 
 <hr>
 
 <div class="row">
-<div class="small-9 columns">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/Munywoki-emerg-2013.png" alt="">
+</div>
+
+<div class="small-10 columns left">
 <h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Severe lower respiratory tract infection in early infancy and pneumonia hospitalizations among children, Kenya. Emerging infectious diseases 19, no. 2 (2013): 223-229.</a></h6>
 <p>Munywoki PK, Ohuma EO, Ngama M, Bauni E, Scott JA, Nokes DJ.</p>
 <div class="small-12 columns">
@@ -88,10 +97,8 @@ permalink: "/publications-page3/"
 </div>
 </div>
 
-<div class="small-3 columns">
- <img class="publication" src="{{ site.url }}/images/article_img/Munywoki-emerg-2013.png" alt="">
 </div>
-</div>
+
 
 <hr>
  

@@ -7,8 +7,8 @@ homepage: true
 
 <div class="row-30">
   <div class="small-12 small-centered columns">
-   <img src="{{ site.url }}/images/banner3.png" alt="VEC GROUP"> 
-   <!-- <img src="{{ site.url }}/images/hompepage_img/DSC0474.png" alt="VEC GROUP"> -->
+   <!-- <img src="{{ site.url }}/images/banner3.png" alt="VEC GROUP">  -->
+   <img src="{{ site.url }}/images/hompepage_img/DSC0474.png" alt="VEC GROUP">
   </div>
 </div>
 <br>
@@ -55,25 +55,38 @@ homepage: true
 
     	<div class="corner-ribbon top-left  orange shadow">New Article</div>
 		<br>
-          <img class="img-rounded" src="{{ site.url }}/images/hompepage_img/plosOne1.png" alt="Generic placeholder image" width="180" height="140">
+          <img class="img-rounded" src="{{ site.url }}/images/hompepage_img/ekamau-jcv-2017.png" alt="Generic placeholder image" width="180" height="140">
           <p></p>
           <!--<h4>Latest Publication</h4>-->
-          <p>Absence of Association between Cord Specific Antibody Levels and Severe Respiratory Syncytial Virus (RSV) Disease in Early Infants: A Case Control Study from Coastal Kenya.</p>
+          <p>Recent sequence variation in probe binding site affected detection of respiratory syncytial virus group B by real-time RT-PCR.</p>
           <p><a class="btn btn-secondary" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166706" target="_blank" role="button">Read More &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         
         <div class="large-4 columns  text-center" >
-          <img  class="img-rounded" src="{{ site.url }}/images/hompepage_img/otieno_jr.png" alt="Generic placeholder image" width="180" height="140">
+        <br><br>
+          <img  class="img-rounded" src="{{ site.url }}/images/hompepage_img/jotieno-eid-2017.png" alt="Generic placeholder image" width="180" height="140">
           <p></p>
           
-          <p>Molecular Evolutionary Dynamics of Respiratory Syncytial Virus Group A in Recurrent Epidemics in Coastal Kenya</p>
+          <p>Spread and Evolution of Respiratory Syncytial Virus A Genotype ON1, Coastal Kenya, 2010–2015</p>
           <p><a class="btn btn-secondary" href="http://jvi.asm.org/content/early/2016/02/26/JVI.03105-15.abstract" target="_blank" role="button">Read More &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         
         <div class="large-4 columns text-center" style="border-left: dotted #d8d8d8 1px;">
-    	<div class="corner-ribbon top-left  blue shadow">Blog</div>
+    	<div class="corner-ribbon top-left  blue shadow">Award</div>
 		<br>
-          <img class="img-rounded" src="{{ site.url }}/images/hompepage_img/blog_kiti.png" alt="Generic placeholder image" width="180" height="40">
+          <img class="img-rounded" src="{{ site.url }}/images/Joyce-Nyiro.jpg" alt="Generic placeholder image" width="100" height="40">
+          <p>
+         Joyce Nyiro, Research Officer studying mechanisms for quantifying maternally derived protective immunity correlates for RSV, has been awarded a fully funded place on the <a href="http://www.jenner.ac.uk/vaccinology-in-africa-course">2017 Vaccinology in Africa course</a>. The course received 268 applications for 40 bursary places, 20 of which are reserved for residents of Uganda and 20 places for residents from other East African countries</p>
+          <p><a class="btn btn-secondary" href="http://virec-group.org/blog/Quantifying-social-contacts-in-a-household-setting-of-rural-Kenya" role="button">View award details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+    </div><!-- /.row -->
+
+
+<!--
+<div class="large-4 columns text-center" style="border-left: dotted #d8d8d8 1px;">
+    	<div class="corner-ribbon top-left  blue shadow">Award</div>
+		<br>
+          <img class="img-rounded" src="{{ site.url }}/images/Joyce-Nyiro.jpg" alt="Generic placeholder image" width="180" height="40">
           <p>
           <h6><em><Light>Everyday, we interact with people from different backgrounds. These backgrounds determine whom we meet, where we meet, and the duration of the interaction.</Light></em></h6></p>
           <p><a class="btn btn-secondary" href="http://virec-group.org/blog/Quantifying-social-contacts-in-a-household-setting-of-rural-Kenya" role="button">Read Blog &raquo;</a></p>
