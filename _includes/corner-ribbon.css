@@ -1,4 +1,4 @@
-/* The ribbons */
+/* The ribbons 
 
 .corner-ribbon{
   width: 150px;
@@ -15,7 +15,7 @@
   -we/bkit-transform: rotate(-45deg);
 }
 
-/* Custom styles */
+/* Custom styles 
 
 .corner-ribbon.sticky{
   position: fixed;
@@ -25,7 +25,7 @@
   box-shadow: 0 0 3px rgba(0,0,0,.3);
 }
 
-/* Different positions */
+/* Different positions 
 
 .corner-ribbon.top-left{
   t/op: 25px;
@@ -59,7 +59,7 @@
   -webkit-transform: rotate(-45deg);
 }
 
-/* Colors */
+/* Colors 
 
 .corner-ribbon.white{background: #f0f0f0; color: #555;}
 .corner-ribbon.black{background: #333;}
@@ -73,8 +73,8 @@
 .corner-ribbon.yellow{background: #ec0;}
 
 
-/*Section header after */
-h2:after
+/*Section header after 
+h3:after
 {
 	content: "";
 	posit/ion: absolute;
@@ -87,4 +87,37 @@ h2:after
     display:block;
     border:2px solid #A1D044;
 }
+
+.ac/cordion { counter-reset: section; margin-left: 0; margin-bottom: 10px; }
+.acc/ordion .accordion-navigation > a { 
+    padding-left: 3.5em;
+	background: #eeeae4;
+	color: #082047;
+	border: 1px solid #c5ac8d;
+	margin-bottom: 2px;
+}
+
+.ac/cordion .accordion-navigation > a:hover {
+	background: #dfd4ca;
+}
+
+
+
+.ac/cordio/n-navigation > a:after {
+    border-color: #643f15 transparent transparent transparent;
+    border-image: none;
+    border-style: solid;
+    border-width: 8px;
+    content: "";
+    display: block;
+    height: 0;
+    position: absolute;
+    right: 2em;
+    width: 0;
+	margin-top: -.95em;
+}
+
+
+
+
 

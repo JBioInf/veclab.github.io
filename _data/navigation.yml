@@ -10,13 +10,18 @@
   url: "/research/"
   side: right
 
+- title: Team
+  url: "/team/"
+  side: right
+  
 - title: Publications
   url: "/publications/"
   side: right
 
-- title: Team
-  url: "/team/"
+- title: Data
+  url: "/Data/"
   side: right
+
 
 - title: Blog
   url: "/blog/"

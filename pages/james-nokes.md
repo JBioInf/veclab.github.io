@@ -18,12 +18,13 @@ header: no
 </div>
 
 
+
 <div class = "row">
 <!-- contact block -->
-<div class = "small-12 columns">
+<div class = "large-12 columns">
 
-<div class = "small-3 columns">
-<div class="panel">
+<div class = "large-3 columns">
+<div class="sidebar text-center">
   <h4>Prof. James Nokes</h4>
 
 <ul class="nobull">
@@ -44,11 +45,11 @@ header: no
 </div>
 
 
-
 <!-- Content -->
-<div class = "small-9 columns">
+<div class = "large-9 columns">
 
 <div class="row">
+<br>
 <h5>Background</h5>
 <br>
 <p >

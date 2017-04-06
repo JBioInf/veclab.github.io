@@ -1,22 +1,43 @@
 ---
 layout: page-fullwidth
-subheadline: "The Virus Epidemiology and Control Research Group"
+#subheadline: "The Virus Epidemiology and Control Research Group"
 #teaser: "We are interested in virus epidemiology and more specifically on transmission pathways. How do infections spread within a household, at the community"
 permalink: "/about/"
 header: no
 ---
 
+<section role="main" class="scroll-container">
+<div class="row">
+	<div class="large-3 medium-4 columns"> <!--side nav -->
+		<div class="hide-for-small">
+			<div class="sidebar">			
+				<p></p>
+				<nav class="side-nav">
+					<ul class="side-nav">
+						<li class="active"><a href="#">Background</a></li>
+						<li>
+						<a href="#">Vision & Mission</a>
+						</li>
+						<li>
+    						<a href="#">Areas of interest</a>
+  						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
 
-<p class="text-justify lead">
-The research group is based within the Epidemiology and Demography Department of the <a href="http://www.kemri-wellcome.org" target="blank" > Wellcome Trust Major Overseas Programme based at Kilifi</a>, coastal Kenya. We study a range of 
-respiratory and enteric viruses that are of major public health importance in the region. Our focus is understanding the transmission dynamics of pathogens such as RSV, Rotavirus and Influenza 
-viruses with an aim of improving strategies of control. 
-We are also engaged in long term surveillence of burden of disease estimation, vaccine interventions evaluation and immuno-epidemiological research.
-</p>
-
-
-
-<hr>
+	<div class="large-9 medium-8 columns"> <!--container -->
+		<div class="large-12 columns">
+			<h3>Our Background</h3>
+			<p class="text-justify">
+			The research group is based within the Epidemiology and Demography Department of the <a href="http://www.kemri-wellcome.org" target="blank" > Wellcome Trust Major Overseas Programme based at Kilifi</a>, coastal Kenya. We study a range of 
+			respiratory and enteric viruses that are of major public health importance in the region. Our focus is understanding the transmission dynamics of pathogens such as RSV, Rotavirus and Influenza 
+			viruses with an aim of improving strategies of control. 
+			We are also engaged in long term surveillence of burden of disease estimation, vaccine interventions evaluation and immuno-epidemiological research.
+			</p>
+		
+			
 
 <div class="row">
   <div class="small-12 columns">
@@ -29,19 +50,31 @@ We are also engaged in long term surveillence of burden of disease estimation, v
   </div>
 </div>
 
-<hr>
-<p class="text-justify lead">
+
+<p class="text-justify">
 Our research is multi-disciplinary and applies a wide range of approaches that involve the application and development of molecular, 
 immunological, bioinformatics, mathematical modelling, electronic tagging and social tools. This is not done alone, and we have an excellent group of collaborators.
 </p>
 
+
+</div>  
+</div>
+</section>
+
+<br>
 <hr>
 
+<br>
 <div class="row">
 <div class="small-12 small-centered columns">
   <img src="{{ site.url }}/images/collaborators-logos.png" alt="Our collaborators">
 </div>
 </div>
+
+
+
+
+
 
 <!--
 <div class="row">
@@ -107,5 +140,5 @@ immunological, bioinformatics, mathematical modelling, electronic tagging and so
 </div>
 -->
 
-<hr>
+
 
