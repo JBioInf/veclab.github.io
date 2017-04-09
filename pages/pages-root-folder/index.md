@@ -8,7 +8,7 @@ homepage: true
 <div class="row-30">
   <div class="small-12 small-centered columns">
    <!-- <img src="{{ site.url }}/images/banner3.png" alt="VEC GROUP">  -->
-   <img src="{{ site.url }}/images/hompepage_img/veclab_members.png" alt="VEC GROUP">
+   <img src="{{ site.url }}/images/hompepage_img/veclab_members.jpg" alt="VEC GROUP">
   </div>
 </div>
 <br>
