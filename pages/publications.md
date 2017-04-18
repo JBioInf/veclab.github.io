@@ -12,6 +12,9 @@ permalink: "/publications/"
     <li class="current"><a href="">1</a></li>
     <li><a href="{{ site.url }}/publications-page2">2</a></li>
     <li><a href="{{ site.url }}/publications-page3">3</a></li>
+    <li><a href="{{ site.url }}/publications-page4">4</a></li>
+    <li><a href="{{ site.url }}/publications-page5">5</a></li>
+    <li><a href="{{ site.url }}/publications-page6">6</a></li>
     <!-- <li><a href="">4</a></li>
     <li class="unavailable"><a href="">&hellip;</a></li>
     <li><a href="">12</a></li>
@@ -22,7 +25,6 @@ permalink: "/publications/"
 </div>
 
 <hr>
-
 
 <div class="row">
 <div class="small-2 columns">
@@ -94,8 +96,6 @@ permalink: "/publications/"
 
 <hr>
 
-
-
 <div class="row">
 <div class="small-2 columns">
 <img class="publication text-center" src="{{ site.url }}/images/article_img/mwathuo-wor-2017.gif?hei=200&wid=300&fmt=png-alpha&resMode=bicub&op_sharpen=1" alt="">
@@ -159,7 +159,7 @@ permalink: "/publications/"
 </div>
 <div class="small-10 columns">
 <h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/27469941" target="_blank">Human Rhinovirus B and C Genomes from Rural Coastal Kenya. Genome Announcements. 2016 Aug 25;4(4):e00751-16.</a></h6>
-<p>Agoti, C.N., Kiyuka, P.K., Kamau, E., Munywoki, P.K., Bett, A., van der Hoek, L., Kellam, P., Nokes, D.J. and Cotten, M., <a href="http://virec-group.org/charles-agoti/" target="_blank">Agoti CN</a>, <a href="http://virec-group.org/james-nokes/" target="_blank">Nokes DJ</a></p>
+<p>Agoti, C.N., Kiyuka, P.K., Kamau, E., Munywoki, P.K., Bett, A., van der Hoek, L., Kellam, P., Nokes, D.J. and Cotten, M.</a></p>
 <div class="small-12 columns">
 <!-- <div class="small-2 columns left">
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/27316548" target="_blank">Pubmed</a>  
@@ -268,148 +268,6 @@ permalink: "/publications/"
 
 <hr>
 
-<div class="row">
-<div class="small-2 columns">
-  <img class="publication" src="{{ site.url }}/images/article_img/WHO-RSV-2016.png" alt="">
-</div>
-<div class="small-10 columns">
-<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/26100926" target="_blank">WHO consultation on respiratory syncytial virus vaccine development report from a World Health Organization meeting held on 23–24 March 2015. Vaccine. 2016 Jan 4;34(2):190-7.</a></h6>
-<p>Modjarrad K, Giersing B, Kaslow DC, Smith PG, Moorthy VS</p>
-<div class="small-12 columns">
-<!-- <div class="small-2 columns left">
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/26100926" target="_blank">Pubmed</a>  
-</div>
-<div class="small-3 columns left">
-<a href="https://scholar.google.com/scholar?q=WHO+consultation+on+Respiratory+Syncytial+Virus+Vaccine+Development+Report+from+a+World+Health+Organization+Meeting+held+on+23-24+March+2015&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
-</div> -->
-<div class="small-6 columns left">
-<a href="https://dx.doi.org/10.1016/j.vaccine.2015.05.093" target="_blank">doi: 10.1016/j.vaccine.2015.05.093</a>
-</div>
-</div>
-</div>
-</div>
-
-<hr>
-
-<div class="row">
-<div class="small-2 columns">
-  <img class="publication" src="{{ site.url }}/images/article_img/Agoti-et-al-2015.jpg" alt="" height="100" width="150">
-</div>
-
-<div class="small-10 columns"> 
-<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/26355091" target="_blank">Successive respiratory syncytial virus epidemics in local populations arise from multiple variant introductions providing insights into virus persistence. Journal of virology. 2015 Sep 9:JVI-01972.</a></h6>
-<p>Agoti CN, Otieno JR, Ngama M, Mwihuri AG, Medley GF, Cane PA, Nokes DJ.</p>
-<div class="small-12 columns">
-<!-- <div class="small-2 columns left">
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/26355091" target="_blank">Pubmed</a>  
-</div>
-<div class="small-3 columns left">
-<a href="https://scholar.google.com/scholar?q=Successive+Respiratory+Syncytial+Virus+Epidemics+in+Local+Populations+Arise+from+Multiple+Variant+Introductions%2C+Providing+Insights+into+Virus+Persistence.&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
-</div> -->
-<div class="small-6 columns left">
-<a href="https://dx.doi.org/10.1128/JVI.01972-15" target="_blank">doi: 10.1128/JVI.01972-15</a>
-</div>
-</div>
-</div>
-</div>
-
-<hr>
-
-<div class="row">
-<div class="small-2 columns">
-  <img class="publication" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015.jpg" alt="">    
-</div>
-
-<div class="small-10 columns">
-<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/25941331" target="_blank">Frequent asymptomatic respiratory syncytial virus infections during an epidemic in a rural Kenyan household cohort. Journal of Infectious Diseases. 2015 Dec 1;212(11):1711-8.</a></h6>
-<p>Munywoki PK, Koech DC, Agoti CN, Bett A, Cane PA, Medley GF, Nokes DJ. </p>
-<div class="small-12 columns">
-<!-- <div class="small-2 columns left">
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/25941331" target="_blank">Pubmed</a>  
-</div>
-<div class="small-3 columns left">
-<a href="https://scholar.google.com/scholar?q=Successive+Respiratory+Syncytial+Virus+Epidemics+in+Local+Populations+Arise+from+Multiple+Variant+Introductions%2C+Providing+Insights+into+Virus+Persistence.&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
-</div> -->
-<div class="small-6 columns left">
-<a href="https://dx.doi.org/10.1093/infdis/jiv263" target="_blank">doi: 10.1093/infdis/jiv263</a>
-</div>
-</div>
-</div>
-</div>
-
-<hr>
-
-<div class="row">
-<div class="small-2 columns">
-  <img class="publication" src="{{ site.url }}/images/article_img/Agoti-et-al-2015-jvi.jpg" alt="">
-</div>
-
-<div class="small-10 columns">
-<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/25609811" target="_blank"> Local evolutionary patterns of human respiratory syncytial virus derived from whole-genome sequencing. Journal of virology. 2015 Apr 1;89(7):3444-54.</a></h6>
-<p class="text-justify">Agoti CN, Otieno JR, Munywoki PK, Mwihuri AG, Cane PA, Nokes DJ, Kellam P, Cotten M.</p>
-<div class="small-12 columns">
-<!-- <div class="small-2 columns left">
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/25609811" target="_blank">Pubmed</a>  
-</div>
-<div class="small-3 columns left">
-<a href="https://scholar.google.com/scholar?q=Local+Evolutionary+Patterns+of+Human+Respiratory+Syncytial+Virus+Derived+from+Whole-Genome+Sequencing.&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
-</div> -->
-<div class="small-6 columns left">
-<a href="https://dx.doi.org/10.1128/JVI.03391-14" target="_blank">doi: 10.1128/JVI.03391-14</a>
-</div>
-</div>
-</div>
-</div>
-
-<hr>
-
-<div class="row">
-<div class="small-2 columns">
- <img class="publication" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015-epi-and-infection.png" alt="">
-</div>
-
-<div class="small-10 columns">
-<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/24901443" target="_blank">Influence of age, severity of infection, and co-infection on the duration of respiratory syncytial virus (RSV) shedding. Epidemiology and infection. 2015 Mar 1;143(04):804-12.</a></h6>
-<p>Munywoki PK, Koech DC, Agoti CN, Kibirige N, Kipkoech J, Cane PA, Medley GF, Nokes DJ</p>
-<div class="small-12 columns">
-<!-- <div class="small-2 columns left">
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/24901443" target="_blank">Pubmed</a>  
-</div>
-<div class="small-3 columns left">
-<a href="https://scholar.google.com/scholar?q=Influence+of+age%2C+severity+of+infection%2C+and+co-infection+on+the+duration+of+respiratory+syncytial+virus+%28RSV%29+shedding&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
-</div> -->
-<div class="small-6 columns left">
-<a href="https://dx.doi.org/10.1017/S0950268814001393" target="_blank">doi: 10.1017/S0950268814001393</a>
-</div>
-</div>
-</div>
-</div>
-
-<hr>
-
-<div class="row" >
-<div class="small-2 columns">
- <img class="publication" src="{{ site.url }}/images/article_img/kinyanjui-plos-one-2015.png" alt="">
-</div>
-
-<div class="small-10 columns">
-<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/26390032 " target="_blank">Vaccine induced herd immunity for control of respiratory syncytial virus disease in a low-income country setting. PloS one. 2015 Sep 21;10(9):e0138018.</a></h6>
-<p>Kinyanjui TM, House TA, Kiti MC, Cane PA, Nokes DJ, Medley GF</p>
-<div class="small-12 columns">
-<!-- <div class="small-2 columns left">
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/26390032 " target="_blank">Pubmed</a>  
-</div>
-<div class="small-3 columns left">
-<a href="https://scholar.google.com/scholar?q=Influence+of+age%2C+severity+of+infection%2C+and+co-infection+on+the+duration+of+respiratory+syncytial+virus+%28RSV%29+shedding&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
-</div> -->
-<div class="small-6 columns left">
-<a href="https://dx.doi.org/10.1371/journal.pone.0138018" target="_blank">doi: 10.1371/journal.pone.0138018</a>
-</div>
-</div>
-</div>
-</div>
-
-<hr>
 
 <!-- pagination ...check customisation in _settings_global.scss -->
 <div class="row right">
@@ -419,6 +277,9 @@ permalink: "/publications/"
     <li class="current"><a href="">1</a></li>
     <li><a href="{{ site.url }}/publications-page2">2</a></li>
     <li><a href="{{ site.url }}/publications-page3">3</a></li>
+    <li><a href="{{ site.url }}/publications-page4">4</a></li>
+    <li><a href="{{ site.url }}/publications-page5">5</a></li>
+    <li><a href="{{ site.url }}/publications-page6">6</a></li>
     <!-- <li><a href="">4</a></li>
     <li class="unavailable"><a href="">&hellip;</a></li>
     <li><a href="">12</a></li>

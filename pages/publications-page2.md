@@ -12,12 +12,158 @@ permalink: "publications-page2/"
     <li><a href="{{ site.url }}/publications">1</a></li>
     <li class="current"><a href="{{ site.url }}/publications-page2">2</a></li>
     <li><a href="{{ site.url }}/publications-page3">3</a></li>
+    <li><a href="{{ site.url }}/publications-page4">4</a></li>
+    <li><a href="{{ site.url }}/publications-page5">5</a></li>
+    <li><a href="{{ site.url }}/publications-page6">6</a></li>
     <!-- <li><a href="">4</a></li>
     <li class="unavailable"><a href="">&hellip;</a></li>
     <li><a href="">12</a></li>
     <li><a href="">13</a></li> -->
     <li class="arrow"><a href="{{ site.url }}/publications-page3">&raquo;</a></li>
   </ul>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="small-2 columns">
+  <img class="publication" src="{{ site.url }}/images/article_img/WHO-RSV-2016.png" alt="">
+</div>
+<div class="small-10 columns">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/26100926" target="_blank">WHO consultation on respiratory syncytial virus vaccine development report from a World Health Organization meeting held on 23–24 March 2015. Vaccine. 2016 Jan 4;34(2):190-7.</a></h6>
+<p>Modjarrad K, Giersing B, Kaslow DC, Smith PG, Moorthy VS</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/26100926" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?q=WHO+consultation+on+Respiratory+Syncytial+Virus+Vaccine+Development+Report+from+a+World+Health+Organization+Meeting+held+on+23-24+March+2015&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-6 columns left">
+<a href="https://dx.doi.org/10.1016/j.vaccine.2015.05.093" target="_blank">doi: 10.1016/j.vaccine.2015.05.093</a>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="small-2 columns">
+  <img class="publication" src="{{ site.url }}/images/article_img/Agoti-et-al-2015.jpg" alt="" height="100" width="150">
+</div>
+
+<div class="small-10 columns"> 
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/26355091" target="_blank">Successive respiratory syncytial virus epidemics in local populations arise from multiple variant introductions providing insights into virus persistence. Journal of virology. 2015 Sep 9:JVI-01972.</a></h6>
+<p>Agoti CN, Otieno JR, Ngama M, Mwihuri AG, Medley GF, Cane PA, Nokes DJ.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/26355091" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?q=Successive+Respiratory+Syncytial+Virus+Epidemics+in+Local+Populations+Arise+from+Multiple+Variant+Introductions%2C+Providing+Insights+into+Virus+Persistence.&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-6 columns left">
+<a href="https://dx.doi.org/10.1128/JVI.01972-15" target="_blank">doi: 10.1128/JVI.01972-15</a>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="small-2 columns">
+  <img class="publication" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015.jpg" alt="">    
+</div>
+
+<div class="small-10 columns">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/25941331" target="_blank">Frequent asymptomatic respiratory syncytial virus infections during an epidemic in a rural Kenyan household cohort. Journal of Infectious Diseases. 2015 Dec 1;212(11):1711-8.</a></h6>
+<p>Munywoki PK, Koech DC, Agoti CN, Bett A, Cane PA, Medley GF, Nokes DJ. </p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/25941331" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?q=Successive+Respiratory+Syncytial+Virus+Epidemics+in+Local+Populations+Arise+from+Multiple+Variant+Introductions%2C+Providing+Insights+into+Virus+Persistence.&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-6 columns left">
+<a href="https://dx.doi.org/10.1093/infdis/jiv263" target="_blank">doi: 10.1093/infdis/jiv263</a>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="small-2 columns">
+  <img class="publication" src="{{ site.url }}/images/article_img/Agoti-et-al-2015-jvi.jpg" alt="">
+</div>
+
+<div class="small-10 columns">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/25609811" target="_blank"> Local evolutionary patterns of human respiratory syncytial virus derived from whole-genome sequencing. Journal of virology. 2015 Apr 1;89(7):3444-54.</a></h6>
+<p class="text-justify">Agoti CN, Otieno JR, Munywoki PK, Mwihuri AG, Cane PA, Nokes DJ, Kellam P, Cotten M.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/25609811" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?q=Local+Evolutionary+Patterns+of+Human+Respiratory+Syncytial+Virus+Derived+from+Whole-Genome+Sequencing.&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-6 columns left">
+<a href="https://dx.doi.org/10.1128/JVI.03391-14" target="_blank">doi: 10.1128/JVI.03391-14</a>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/Munywoki-et-al-2015-epi-and-infection.png" alt="">
+</div>
+
+<div class="small-10 columns">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/24901443" target="_blank">Influence of age, severity of infection, and co-infection on the duration of respiratory syncytial virus (RSV) shedding. Epidemiology and infection. 2015 Mar 1;143(04):804-12.</a></h6>
+<p>Munywoki PK, Koech DC, Agoti CN, Kibirige N, Kipkoech J, Cane PA, Medley GF, Nokes DJ</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/24901443" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?q=Influence+of+age%2C+severity+of+infection%2C+and+co-infection+on+the+duration+of+respiratory+syncytial+virus+%28RSV%29+shedding&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-6 columns left">
+<a href="https://dx.doi.org/10.1017/S0950268814001393" target="_blank">doi: 10.1017/S0950268814001393</a>
+</div>
+</div>
+</div>
+</div>
+
+<hr>
+
+<div class="row" >
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/kinyanjui-plos-one-2015.png" alt="">
+</div>
+
+<div class="small-10 columns">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/26390032 " target="_blank">Vaccine induced herd immunity for control of respiratory syncytial virus disease in a low-income country setting. PloS one. 2015 Sep 21;10(9):e0138018.</a></h6>
+<p>Kinyanjui TM, House TA, Kiti MC, Cane PA, Nokes DJ, Medley GF</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/26390032 " target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?q=Influence+of+age%2C+severity+of+infection%2C+and+co-infection+on+the+duration+of+respiratory+syncytial+virus+%28RSV%29+shedding&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-6 columns left">
+<a href="https://dx.doi.org/10.1371/journal.pone.0138018" target="_blank">doi: 10.1371/journal.pone.0138018</a>
+</div>
+</div>
 </div>
 </div>
 
@@ -121,150 +267,6 @@ Quantifying maternally derived respiratory syncytial virus specific neutralising
 
 <hr>
 
-<div class="row">
-<div class="small-2 columns">
- <img class="publication" src="{{ site.url }}/images/article_img/agoti-emerg-2014.png" alt="">
-</div>
-
-<div class="small-10 columns">
-<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/24856417" target="_blank">Rapid spread and diversification of respiratory syncytial virus genotype ON1, Kenya. Emerg Infect Dis. 2014 Jun 1;20:950-9.</a></h6>
-<p>Agoti CN, Otieno JR, Gitahi CW, Cane PA, Nokes DJ.</p>
-<div class="small-12 columns">
-<!-- <div class="small-2 columns left">
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/24856417" target="_blank">Pubmed</a>  
-</div>
-<div class="small-2 columns left">
-<a href="https://scholar.google.com/scholar?q=rapid+spread+and+diversification+of+respiratory+syncytial+virus+genotypes+on1%2C+kenya+&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
-</div> -->
-<div class="small-5 columns left">
-<a href="https://dx.doi.org/10.3201/eid2006.131438" target="_blank">doi: 10.3201/eid2006.131438</a>
-</div>
-</div>
-</div>
-</div>
-
-<hr>
-
-<div class="row">
-<div class="small-2 columns">
- <img class="publication" src="{{ site.url }}/images/article_img/agoti-bmcinfect-2014.png" alt="">
-</div>
-
-<div class="small-10 columns">
-<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/24690157" target="_blank">Examining strain diversity and phylogeography in relation to an unusual epidemic pattern of respiratory syncytial virus (RSV) in a long-term refugee camp in Kenya. BMC infectious diseases. 2014 Apr 1;14(1):1.</a></h6>
-<p>Agoti CN, Mayieka LM, Otieno JR, Ahmed JA, Fields BS, Waiboci LW, Nyoka R, Eidex RB, Marano N, Burton W, Montgomery JM.</p>
-<div class="small-12 columns">
-<!-- <div class="small-2 columns left">
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/24690157" target="_blank">Pubmed</a>  
-</div>
-<div class="small-2 columns left">
-<a href="https://scholar.google.com/scholar?hl=en&q=Examining+strain+diversity+and+phylogeography+in+relation+to+an+unusual+epidemic+pattern+ofrespiratory+syncytial+virus+%28RSV%29+in+a+long-term+refugee+camp+in+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
-</div> -->
-<div class="small-5 columns left">
-<a href="https://dx.doi.org/10.1186/1471-2334-14-178" target="_blank">doi: 10.1186/1471-2334-14-178</a>
-</div>
-</div>
-</div>
-</div>
-
-<hr>
-
-<div class="row">
-<div class="small-2 columns end">
- <img class="publication" src="{{ site.url }}/images/article_img/munywoki-jid-2014.png" alt="">
-</div>
-
-<div class="small-10 columns">
-<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/24367040" target="_blank">The source of respiratory syncytial virus infection in infants: a household cohort study in rural Kenya. Journal of Infectious Diseases. 2013 Dec 23:jit828.</a></h6>
-<p>Munywoki PK, Koech DC, Agoti CN, Lewa C, Cane PA, Medley GF, Nokes DJ. </a></p>
-<div class="small-12 columns">
-<!-- <div class="small-2 columns left">
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/24367040" target="_blank">Pubmed</a>  
-</div>
-<div class="small-2 columns left">
-<a href="https://scholar.google.com/scholar?q=The+source+of+respiratory+syncytial+virus+infection+in+infants%3A+a+household+cohort+study+in+rural+Kenya&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
-</div> -->
-<div class="small-5 columns left">
-<a href="https://dx.doi.org/10.1093/infdis/jit828" target="_blank">doi: 10.1093/infdis/jit828</a>
-</div>
-</div>
-</div>
-</div>
-
-<hr>
-
-
-<div class="row">
-<div class="small-2 columns">
- <img class="publication" src="{{ site.url }}/images/article_img/sande-jmed-2013.png" alt="">
-</div>
-
-<div class="small-10 columns">
-<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/23782406" target="_blank">Kinetics of the neutralizing antibody response to respiratory syncytial virus infections in a birth cohort. Journal of medical virology. 2013 Nov 1;85(11):2020-5.</a></h6>
-<p>Sande CJ, Mutunga MN, Okiro EA, Medley GF, Cane PA, Nokes DJ.</p>
-<div class="small-12 columns">
-<!-- <div class="small-2 columns left">
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/23782406" target="_blank">Pubmed</a>  
-</div>
-<div class="small-2 columns left">
-<a href="https://scholar.google.com/scholar?q=Kinetics+of+the+neutralizing+antibody+response+to+respiratory+syncytial+virus+infections+in+a+birth+cohort.&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
-</div> -->
-<div class="small-5 columns left">
-<a href="https://dx.doi.org/10.1002/jmv.23696" target="_blank">doi: 10.1002/jmv.23696</a>
-</div>
-</div>
-</div>
-</div>
-
-<hr>
-
-<div class="row">
-<div class="small-2 columns">
- <img class="publication" src="{{ site.url }}/images/article_img/agoti-influenza-2013.png" alt="">
-</div>
-
-<div class="small-10 columns">
-<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/23782406" target="_blank">Identification of group B respiratory syncytial viruses that lack the 60‐nucleotide duplication after six consecutive epidemics of total BA dominance at coastal Kenya. Influenza and other respiratory viruses. 2013 Nov 1;7(6):1008-12.</a></h6>
-<p>Agoti CN, Gitahi CW, Medley GF, Cane PA, Nokes DJ.</p>
-<div class="small-12 columns">
-<!-- <div class="small-2 columns left">
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/23782406" target="_blank">Pubmed</a>  
-</div>
-<div class="small-2 columns left">
-<a href="https://scholar.google.com/scholar?q=Identification+of+group+B+respiratory+syncytial+viruses+that+lack+the+60-nucleotide+duplication+after+six+consecutive+epidemics+of+total+BA+dominance+at+coastal+Kenya.&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
-</div> -->
-<div class="small-5 columns left">
-<a href="https://dx.doi.org/10.1111/irv.12131" target="_blank">doi: 10.1111/irv.12131</a>
-</div>
-</div>
-</div>
-</div>
-
-<hr>
-
-<div class="row">
-<div class="small-2 columns">
- <img class="publication" src="{{ site.url }}/images/article_img/Mbae-BMCinfect-2013.png" alt="">
-</div>
-
-<div class="small-10 columns">
-<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/23705776" target="_blank">Intestinal parasitic infections in children presenting with diarrhoea in outpatient and inpatient settings in an informal settlement of Nairobi, Kenya. BMC infectious diseases. 2013 May 27;13(1):1.</a></h6>
-<p>Mbae CK, Nokes DJ, Mulinge E, Nyambura J, Waruru A, Kariuki S.</p>
-<div class="small-12 columns">
-<!-- <div class="small-2 columns left">
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/23705776" target="_blank">Pubmed</a>  
-</div>
-<div class="small-2 columns left">
-<a href="https://scholar.google.com/scholar?q=Intestinal+parasitic+infections+in+children+presenting+with+diarrhoea+in+outpatient+and+inpatient+settings+in+an+informal+settlement+of+Nairobi%2C+Kenya.&btnG=&hl=en&as_sdt=0%2C5" target="_blank">Google Scholar</a>
-</div> -->
-<div class="small-5 columns left">
-<a href="https://dx.doi.org/10.1186/1471-2334-13-243" target="_blank">doi:  10.1186/1471-2334-13-243</a>
-</div>
-</div>
-</div>
-</div>
-
-<hr>
 
 <!-- pagination ...check customisation in _settings_global.scss -->
 <div class="row right">
@@ -274,6 +276,9 @@ Quantifying maternally derived respiratory syncytial virus specific neutralising
     <li><a href="{{ site.url }}/publications">1</a></li>
     <li class="current"><a href="{{ site.url }}/publications-page2">2</a></li>
     <li><a href="{{ site.url }}/publications-page3">3</a></li>
+    <li><a href="{{ site.url }}/publications-page4">4</a></li>
+    <li><a href="{{ site.url }}/publications-page5">5</a></li>
+    <li><a href="{{ site.url }}/publications-page6">6</a></li>
     <!-- <li><a href="">4</a></li>
     <li class="unavailable"><a href="">&hellip;</a></li>
     <li><a href="">12</a></li>
