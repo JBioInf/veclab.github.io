@@ -80,7 +80,7 @@ header: no
 			<p><strong> Study PI: </strong><a href="{{ site.url }}/patrick-munywoki"> Patrick Munywoki (BSc, MSc,PhD)</a></p>
 
 			<p><Strong>Collaborators:</Strong> Sandra dos Santos Chavez, Clayton Onyango, Jennifer Verani</p>
-			<div class="large-12 columns large-centered">
+			
 			</div>
 			</div>
 	</div> 
