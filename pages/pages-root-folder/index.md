@@ -67,8 +67,8 @@ homepage: true
 		<br>
           <img class="img-rounded" src="{{ site.url }}/images/Joyce-Nyiro.jpg" alt="Generic placeholder image" width="100" height="40">
           <p>
-         Joyce Nyiro, Research Officer studying mechanisms for quantifying maternally derived protective immunity correlates for RSV, has been awarded a fully funded place on the <a href="http://www.jenner.ac.uk/vaccinology-in-africa-course">2017 Vaccinology in Africa course</a>. The course received 268 applications for 40 bursary places, 20 of which are reserved for residents of Uganda and 20 places for residents from other East African countries</p>
-          <p><a class="btn btn-secondary" href="http://virec-group.org/blog/Quantifying-social-contacts-in-a-household-setting-of-rural-Kenya" role="button">View award details &raquo;</a></p>
+         <a href="{{ site.url }}/joyce-nyiro">Joyce Nyiro</a>, Research Officer studying mechanisms for quantifying maternally derived protective immunity correlates for RSV, has been awarded a fully funded place on the <a href="http://www.jenner.ac.uk/vaccinology-in-africa-course">2017 Vaccinology in Africa course</a>. The course received 268 applications for 40 bursary places, 20 of which are reserved for residents of Uganda and 20 places for residents from other East African countries</p>
+          <p><a class="btn btn-secondary" href="http://www.jenner.ac.uk/vaccinology-in-africa-course" role="button">View award details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         
         <div class="large-4 columns text-center" style="border-left: dotted #d8d8d8 1px;">
