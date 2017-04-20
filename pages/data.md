@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header: no
-permalink: "/Data/"
+permalink: "/data/"
 ---
 
 <meta http-equiv="refresh" content="0; url=https://dataverse.harvard.edu/dataverse/vec" /> 
