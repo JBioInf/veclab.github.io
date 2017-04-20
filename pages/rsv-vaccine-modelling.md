@@ -65,6 +65,7 @@ header: no
 			<p><Strong>Funding:</Strong> GSK Vaccines and Biologicals
 
 			<p><Strong>Collaborators:</Strong> Tim Kinyanjui, Wirichada Pan-Ngum, Lisa White,Thierry Van Effelterre, Sylvia Taylor</p>
+		</div>
 	</div>
   
 </div>
