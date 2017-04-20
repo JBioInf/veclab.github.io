@@ -71,7 +71,7 @@ header: no
 			
 			<hr>
 			<h4>Sub-Studies</h4>
-			</p>
+			
 			<div class="row">
 				<div class="surround">
 				<div class="small-3  columns">						

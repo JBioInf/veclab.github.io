@@ -55,7 +55,7 @@ permalink: "/publications/"
 </div>
 <div class="small-10 columns">
 <h6><a href="http://www.journalofclinicalvirology.com/article/S1386-6532(16)30639-4/pdf" target="_blank">Recent sequence variation in probe binding site affected detection of respiratory syncytial virus group B by real-time RT-PCR. Journal of Clinical Virology. 2017 </a></h6>
-<p>Kamau, E., Agoti, C.N., Lewa, C.S., Oketch, J., Owor, B.E., Otieno, G.P., Bett, A., Cane, P.A. and Nokes, D.J., <a href="http://virec-group.org/charles-agoti/" target="_blank">Agoti CN</a>, <a href="http://virec-group.org/james-nokes/" target="_blank">Nokes DJ</a></p>
+<p>Kamau, E., Agoti, C.N., Lewa, C.S., Oketch, J., Owor, B.E., Otieno, G.P., Bett, A., Cane, P.A. and Nokes, D.J.</p>
 <div class="small-12 columns">
 <!-- <div class="small-2 columns left">
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/27316548" target="_blank">Pubmed</a>  
@@ -79,7 +79,7 @@ permalink: "/publications/"
 </div>
 <div class="small-10 columns">
 <h6><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5221409/" target="_blank">Predicting the relative impacts of maternal and neonatal respiratory syncytial virus (RSV) vaccine target product profiles: A consensus modelling approach. Vaccine, 35(2), pp.403-409. 2017 </a></h6>
-<p>Pan-Ngum, W., Kinyanjui, T., Kiti, M., Taylor, S., Toussaint, J.F., Saralamba, S., Van Effelterre, T., Nokes, D.J. and White, L.J., <a href="http://virec-group.org/charles-agoti/" target="_blank">Agoti CN</a>, <a href="http://virec-group.org/james-nokes/" target="_blank">Nokes DJ</a></p>
+<p>Pan-Ngum, W., Kinyanjui, T., Kiti, M., Taylor, S., Toussaint, J.F., Saralamba, S., Van Effelterre, T., Nokes, D.J. and White, L.J.</p>
 <div class="small-12 columns">
 <!-- <div class="small-2 columns left">
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/27316548" target="_blank">Pubmed</a>  

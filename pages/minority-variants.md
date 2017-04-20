@@ -69,7 +69,7 @@ header: no
 			
 			<p><strong> Study PI: </strong><a href="{{ site.url }}/george-githinji">  George Githinji (PhD)</a></p>
 
-			<p><Strong>Collaborators:</Strong>Colin Worby, Matt Cotten</p>
+			<p><Strong>Collaborators:</Strong> Matt Cotten, Paul Kellam</p>
 			<div class="large-12 columns large-centered">
 			</div>
 			</div>
