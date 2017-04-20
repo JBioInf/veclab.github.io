@@ -28,7 +28,7 @@ permalink: "/publications/"
 
 <div class="row">
 <div class="small-2 columns">
-<img class="publication text-center" src="{{ site.url }}/images/article_img/jotieno-eid-2017.jpg?hei=200&wid=300&fmt=png-alpha&resMode=bicub&op_sharpen=1" alt="">
+<img class="publication text-center" src="{{ site.url }}/images/article_img/jotieno2-eid-2017.jpg?hei=200&wid=300&fmt=png-alpha&resMode=bicub&op_sharpen=1" alt="">
 </div>
 <div class="small-10 columns">
 <h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/28098528" target="_blank">Spread and Evolution of Respiratory Syncytial Virus A Genotype ON1, Coastal Kenya, 2010–2015. Emerg Infect Dis. 2017 Feb;23(2):264-271.</a></h6>
@@ -127,7 +127,7 @@ permalink: "/publications/"
 
 <div class="row">
 <div class="small-2 columns">
-<img class="publication text-center" src="{{ site.url }}/images/article_img/jnyiro-plos-2016.png?hei=200&wid=300&fmt=png-alpha&resMode=bicub&op_sharpen=1" alt="">
+<img class="publication text-center" src="{{ site.url }}/images/article_img/junyiro-plos-2016.png?hei=200&wid=300&fmt=png-alpha&resMode=bicub&op_sharpen=1" alt="">
 </div>
 <div class="small-10 columns">
 <h6><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5113039/" target="_blank">Absence of association between cord specific antibody levels and severe respiratory syncytial virus (RSV) disease in early infants: a case control study from coastal Kenya. PLoS One, 11(11), p.e0166706. 2016</a></h6>
