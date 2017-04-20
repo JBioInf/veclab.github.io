@@ -11,4 +11,13 @@
         <p class="text-left">
         </p>
     </div>
+
 </aside>
+
+<div>
+<ul>
+{% for item in site.data.research_sidebar %}
+<li>{{item.title}}</li>
+{% endfor %}
+</ul>
+</div>

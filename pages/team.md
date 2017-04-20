@@ -7,7 +7,7 @@ permalink: "/team/"
 <div class="row">
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><a href="{{ site.url }}/james-nokes"><img class="" src="{{ site.url }}/images/James-Nokes.jpg" alt=""></a></div><a href="{{ site.url }}/james-nokes">Prof James Nokes</a><div>Group Leader(PI)</div></div>
 <div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><a href="{{ site.url }}/patrick-munywoki"><img src="{{ site.url }}/images/Patrick-Munywoki.jpg" alt=""></a></div><a href="{{ site.url }}/patrick-munywoki">Patrick Munywoki</a><div>Postdoc</div></div>
-<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><a href="{{ site.url }}/charles-sande"><img src="{{ site.url }}/images/Charles-Sande.jpg" alt=""></a></div><a>Charles Sande</a><div>Postdoc</div></div>
+<div class="small-2 columns"><div style="background: #E4E4E4; height: 137px;"><a href="{{ site.url }}/charles-sande"><img src="{{ site.url }}/images/Charles-Sande.jpg" alt=""></a></div><a href="{{ site.url }}/charles-sande">Charles Sande</a><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/george-githinji"><img src="{{ site.url }}/images/George-Githinji.jpg" alt="" height="90" width="100"></a></div><strong><a href="{{ site.url }}/george-githinji">George Githinji</a></strong><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/charles-agoti"><img src="{{ site.url }}/images/Charles-Agoti.jpg" alt="" height="90" width="100"></a></div><strong><a href="{{ site.url }}/charles-agoti">Charles Agoti</a></strong><div>Postdoc</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/nelson-kibinge"><img src="{{ site.url }}/images/Nelson-Kibinge.jpg" alt="" height="100" width="115"></a></div><strong><a href="{{ site.url }}/nelson-kibinge">Nelson Kibinge</a></strong><div>Postdoc</div></div>
@@ -19,22 +19,20 @@ permalink: "/team/"
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/ivy-kombe"><img src="{{ site.url }}/images/Ivy-Kombe.jpg" alt="" height="100" width="100"></a></div><strong><a href="{{ site.url }}/ivy-kombe">Ivy Kombe</a></strong><div>PhD Student</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/moses-kiti"><img src="{{ site.url }}/images/Moses-Kiti.jpg" alt="" height="87" width="100"></a></div><a href="{{ site.url }}/moses-kiti"><strong>Moses Kiti</strong></a><div>PhD Student</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/james-otieno"><img src="{{ site.url }}/images/James-Otieno.jpg" alt="" height="100" width="115"></a></div><strong><a href=" {{ site.url }}/james-otieno">James Otieno</a></strong><div>PhD Student</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href=""><img src="{{ site.url }}/images/Collins-Owour.jpg" alt="" ></a></div><strong><a href="{{ site.url }}/#">Collins Owuor</a></strong><div>PhD Student</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/joyce-nyiro"><img class="" src="{{ site.url }}/images/Joyce-Nyiro.jpg" alt="" height="100" width="100"></a></div><strong><a href="{{ site.url }}/joyce-nyiro">Joyce Nyiro</a></strong><div>Research officer</div></div> 
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/irene-adema"><img src="{{ site.url }}/images/Irene-Adema.jpg" alt="" height="90" width="100"></a></div><strong><a href="{{ site.url }}/irene-adema">Irene Adema</a></strong><div>Assistant research officer</div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/everlyn-kamau"><img src="{{ site.url }}/images/Everlyn-Kamau.jpg" alt="" height="90" width="100"></a></div><strong><a href="{{ site.url }}/everlyn-kamau">Everlyn Kamau</a></strong><div>Assistant research officer</div></div>
 </div>
 
 <hr>
 
 <div class="row">
-
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/lilian-Mwango"><img class="publication" src="{{ site.url }}/images/Lilian-Mwango.jpeg" alt=""></a></div><a href="{{ site.url }}/lilian-mwango">Lilian Mwango</a><div>Data Manager</div></div>
-
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/everlyn-kamau"><img src="{{ site.url }}/images/Everlyn-Kamau.jpg" alt="" height="90" width="100"></a></div><strong><a href="{{ site.url }}/everlyn-kamau">Everlyn Kamau</a></strong><div>Assistant research officer</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/mike-mwanga"><img class="publication" src="{{ site.url }}/images/Mike-Mwanga.jpg" alt=""></a></div><a href="{{ site.url }}/mike-mwanga">Mike Mwanga</a><div>Assistant research officer</div></div>
-
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/john-aketch"><img class="publication" src="{{ site.url }}/images/John-Aketch.jpg" alt=""></a></div><a href="{{ site.url }}/john-aketch">John Aketch</a><div>Assistant research officer</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/grieven-otieno"><img class="publication" src="{{ site.url }}/images/Grieven-Otieno.jpg" alt=""></a></div><a href="{{ site.url }}/grieven-otieno">Grieven Otieno</a><div>Data Manager</div></div>
+<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/lilian-Mwango"><img class="publication" src="{{ site.url }}/images/Lilian-Mwango.jpeg" alt=""></a></div><a href="{{ site.url }}/lilian-mwango">Lilian Mwango</a><div>Data Manager</div></div>
 
-<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/grieven-otieno"><img class="publication" src="{{ site.url }}/images/Grieven-Otieno.jpg" alt=""></a></div><a href="{{ site.url }}/grieven-otieno">Grieven Otieno</a><div>Data Manager</div></div>
 </div>
 
 <hr>
@@ -76,3 +74,11 @@ permalink: "/team/"
 <div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Clayton-Onyango.jpg" alt="" height="100" width="110"></div>Clayton Onyango</div>
 </div>
 <hr>
+<!--
+<div class="row">
+	<div class="box-round box-big" style="background-color: #A1D044">
+		<figure class="inner">
+		<img width="600" height="600" src="{{ site.url }}/images/Anne-Bett.jpg">
+		</figure>
+	</div>
+</div>-->
