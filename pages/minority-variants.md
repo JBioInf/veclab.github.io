@@ -10,8 +10,7 @@ header: no
 <div class="row">
 	<div class="large-4 medium-4 columns"> <!--side nav -->
 		<div class="hide-for-small">
-			<div class="sidebar">
-			
+			<div class="sidebar">	
 				<p></p>
 				<nav class="side-nav">
 					<ul class="side-nav">
@@ -55,14 +54,13 @@ header: no
 		<div class="large-12 columns large-centered">
 			<h3 class="light centered-text" itemprop="headline">Exploring the role of minority variants in elucidating virus transmission and evolution</h3>
 			<br>
-			<div class="row">
-			<div class="large-12 columns">
-				<figure><img src="{{ site.url }}/images/minority-variants.png" alt="" height="200" width="300"></figure>
-			</div>
+		</div>
 
-			</div>
-			<div class="row">
-			<div class="large-12 columns large-centered">
+		<div class="large-12 columns">
+				<figure><img src="{{ site.url }}/images/minority-variants.png" alt="" height="200" width="300"></figure>
+		</div>
+
+		<div class="large-12 columns large-centered">
 			<p>Whole genome consensus sequence data provides information that represents the dominant virus subtype. It does not provide sufficient information for resolving transmission events particularly for rapidly spreading viruses.
 
 			This project aims to explore whether changes in the composition of minor variants between hosts and the pattern of minor variants fixation during outbreaks, could provide additional data to resolve transmission patterns. </p>
@@ -70,9 +68,11 @@ header: no
 			<p><strong> Study PI: </strong><a href="{{ site.url }}/george-githinji">  George Githinji (PhD)</a></p>
 
 			<p><Strong>Collaborators:</Strong> Matt Cotten, Paul Kellam</p>
-			<div class="large-12 columns large-centered">
-			</div>
-			</div>
-	</div> 
+		</div>
+		
+		<div class="large-12 columns large-centered">
+		</div>
+	</div>
+
 </div>
 </section>
