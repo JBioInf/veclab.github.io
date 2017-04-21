@@ -23,7 +23,7 @@ header: no
 
 <div class = "large-3 columns">
 	<div class="sidebar text-center">
-  	 <h4>George Githinji (BSc, PhD)</h4>
+  	 <h4>George Githinji (Bsc, PhD)</h4>
 	<br>
 	<ul class="nobull">
 		<li><img src="{{ site.url }}/images/George-Githinji.jpg" alt="" height="200" width="225"> </li>
@@ -31,7 +31,7 @@ header: no
 		<li><h6>Postdoc</h6></li>
 		<li><h5>Contact</h5></li>
 		<li>Department Of Epidemiology <br>& Demography</li>
-		<li>Kemri Wellcome Trust</li>
+		<li>KEMRI-Wellcome Trust</li>
 		<li>Kilifi, Kenya</li>
 		<li>&#9742;: </li>
 		<li><a href="mailto:ggithinji>kemri-wellcome<org" target="_top" onclick = "this.href=this.href
