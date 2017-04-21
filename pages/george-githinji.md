@@ -23,12 +23,12 @@ header: no
 
 <div class = "large-3 columns">
 	<div class="sidebar text-center">
-  	 <h4>George Githinji (Bsc, PhD)</h4>
+  	 <h4>George Githinji (BSc, PhD)</h4>
 	<br>
 	<ul class="nobull">
 		<li><img src="{{ site.url }}/images/George-Githinji.jpg" alt="" height="200" width="225"> </li>
 
-		<li><h6>Post Doc</h6></li>
+		<li><h6>Postdoc</h6></li>
 		<li><h5>Contact</h5></li>
 		<li>Department Of Epidemiology <br>& Demography</li>
 		<li>Kemri Wellcome Trust</li>
@@ -38,13 +38,6 @@ header: no
               .replace(/>/,'&#64;')
               .replace(/</,'&#46;')"> &#9993; Email me</a></li>
 	
-	</ul>
-	</div>
-	
-	<p></p>
-
-	<div>
-	<ul class="vcard">
  		<li class="street-address"><a href="https://github.com/biorelated" target="blank">Github</a></li>
   		<li class="street-address"><a href="https://twitter.com/george_l" target="blank">Twitter</a></li>
   		<li class="street-address"><a href="https://biorelated.com" target="blank">Blog</a></li>
