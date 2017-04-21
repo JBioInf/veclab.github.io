@@ -17,7 +17,7 @@ header: no
 					<ul class="side-nav">
 						<li  class="active"><a href="{{ site.url }}/research">SPRED<span class="sub-arrow"></span></a>
 							<ul  class="nobull">
-								<li><a href="{{ site.url }}/spred-kenya">Country-SPReD</a></li>
+							<li><a href="{{ site.url }}/spred-kenya">Country-SPReD</a></li>
       							<li><a href="{{ site.url }}/intervention-modelling">Intervention Modelling</a></li>
      							<li><a href="{{ site.url }}/local-spred">Local SPReD</a></li>
       							<li><a href="{{ site.url }}/genomics-and-transmission-study">Genomics and Transmission</a></li>
@@ -28,10 +28,10 @@ header: no
 							</ul>
 						</li>
 						<li>
-							<a href="{{ site.url }}/ripek">RIPEK</a>
+						    <a href="{{ site.url }}/ripek">RIPEK</a>
 						</li>
 						<li>
-    						<a href="{{site.url}}/rsv-vaccine-modelling">RSV Vaccine Modelling</a>
+    						    <a href="{{site.url}}/rsv-vaccine-modelling">RSV Vaccine Modelling</a>
   						</li>
   						<li>
     						<a href="{{site.url}}/infection-dynamics-in-demographic-transition">Infection Dynamics in Demographic Transition</a>
@@ -51,28 +51,27 @@ header: no
 		</div>
 	</div>
 
-	<div class="large-8 medium-8 columns"> <!--container -->
-		<div class="large-12 columns large-centered">
-			<h3 class="light centered-text" itemprop="headline">Exploring the role of minority variants in elucidating virus transmission and evolution</h3>
-			<br>
-			<div class="row">
-			<div class="large-12 columns">
-				<figure><img src="{{ site.url }}/images/minority-variants.png" alt="" height="200" width="300"></figure>
-			</div>
-
-			</div>
-			<div class="row">
-			<div class="large-12 columns large-centered">
-			<p>Whole genome consensus sequence data provides information that represents the dominant virus subtype. It does not provide sufficient information for resolving transmission events particularly for rapidly spreading viruses.
-
-			This project aims to explore whether changes in the composition of minor variants between hosts and the pattern of minor variants fixation during outbreaks, could provide additional data to resolve transmission patterns. </p>
-			
-			<p><strong> Study PI: </strong><a href="{{ site.url }}/george-githinji">  George Githinji (PhD)</a></p>
-
-			<p><Strong>Collaborators:</Strong> Matt Cotten, Paul Kellam</p>
-			<div class="large-12 columns large-centered">
-			</div>
-			</div>
-	</div> 
+<div class="large-8 medium-8 columns"> <!--container -->
+    <div class="large-12 columns large-centered">
+      <h3 class="light centered-text" itemprop="headline">Exploring the role of RSV quasispecies during evolution and transmission</h3>
+      <br>
+      	
+<div class="row">
+  <div class="large-12 columns">
+    <figure><img src="{{ site.url }}/images/minority-variants.png" alt="" height="200" width="300"></figure>
+  </div>
 </div>
+
+<div class="row">
+<div class="large-12 columns large-centered">
+
+<p>Whole genome consensus sequence data provides information that represents the dominant virus subtype. It does not provide sufficient information for resolving transmission events particularly for rapidly spreading viruses.This project aims to explore whether changes in the composition of minor variants between hosts and the pattern of minor variants fixation during outbreaks, could provide additional data to resolve transmission patterns. 
+</p>
+
+<p><strong> Study PI: </strong><a href="{{ site.url }}/george-githinji">George Githinji (PhD)</a></p>
+
+<p><Strong>Collaborators:</Strong> Colin Worby, Matt Cotten, Paul Kellam</p>
+</div>
+</div>
+
 </section>
