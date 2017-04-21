@@ -92,7 +92,6 @@ in Tanzania and SBRI (now Center for Infectious Disease Research) and attended b
 
 <!-- publications -->
 </div>
-</div>
 
 <br>
 
