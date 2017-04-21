@@ -114,7 +114,7 @@ in Tanzania and SBRI (now Center for Infectious Disease Research) and attended b
 <ul class="nobull">
 	<h6><a href="">Prognostic indicators of life-threatening malaria are associated with distinct parasite variant antigen profiles</a></h6>
 	<p>Warimwe, G.M., Fegan, G., Musyoki, J.N., Newton, C.R., Opiyo, M., Githinji, G., Andisi, C., Menza, F., Kitsao, B., Marsh, K. and Bull, P.C.
-	<br><em><strong>Science translational medicine, 4(129), pp.129ra45-129ra45. (2012)</em> </p>
+	<br><em><strong>Science translational medicine, 4(129), pp.129ra45-129ra45. (2012)</em></strong></p>
 </ul>
 </div>
 <hr>
@@ -123,8 +123,10 @@ in Tanzania and SBRI (now Center for Infectious Disease Research) and attended b
 <div class="row">
 <ul class="nobull">
 	<h6><a href="">Biogem: an effective tool-based approach for scaling up open source software development in bioinformatics</a></h6>
+
 	<p>Bonnal, R.J., Aerts, J., <strong>Githinji, G.,</strong> Goto, N., MacLean, D., Miller, C.A., Mishima, H., Pagani, M., Ramirez-Gonzalez, R., Smant, G. and Strozzi, F.
-	<br><em><strong>Bioinformatics, 28(7), pp.1035-1037.(2012)</strong></em> </p>
+	
+        <br><em><strong>Bioinformatics, 28(7), pp.1035-1037.(2012)</strong></em> </p>
 </ul>
 </div>
 <hr>
