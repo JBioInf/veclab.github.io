@@ -46,7 +46,7 @@ header: no
 	<div>
 	<ul class="vcard">
  		<li class="street-address"><a href="https://github.com/biorelated" target="blank">Software</a></li>
-  		<li class="street-address"><a href="https://twitter.com/biorelated" target="blank">Follow me on twitter</a></li>
+  		<li class="street-address"><a href="https://twitter.com/george_l" target="blank">Follow me on twitter</a></li>
   		<li class="street-address"><a href="https://biorelated.com" target="blank">Read my blog</a></li>
 	</ul>
 	</div>
@@ -128,15 +128,12 @@ in Tanzania and SBRI (now Center for Infectious Disease Research) and attended b
 
 <div class="row">
 <ul class="nobull">
-	<h6><a href="">Biogem: an effective tool-based approach for scaling up open source software development in bioinformatics.</a></h6>
-	<p>Bonnal, R.J., Aerts, J., Githinji, G., Goto, N., MacLean, D., Miller, C.A., Mishima, H., Pagani, M., Ramirez-Gonzalez, R., Smant, G. and Strozzi, F. 
-	<br><em><strong>Bioinformatics, 28(7), pp.1035-1037. (2012)</strong></em> </p>
+	<h6><a href="">Biogem: an effective tool-based approach for scaling up open source software development in bioinformatics</a></h6>
+	<p>Bonnal, R.J., Aerts, J., Githinji, G., Goto, N., MacLean, D., Miller, C.A., Mishima, H., Pagani, M., Ramirez-Gonzalez, R., Smant, G. and Strozzi, F.
+	<br><em><strong>Bioinformatics, 28(7), pp.1035-1037.(2012)</strong></em> </p>
 </ul>
 </div>
 <hr>
 
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=george+githinji" target="_blank"> --> view all Dr. George Githinji's publications</a>
 
-</div>
-</div>
-</div>
