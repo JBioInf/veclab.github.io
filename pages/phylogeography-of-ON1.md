@@ -10,8 +10,7 @@ header: no
 <div class="row">
 	<div class="large-4 medium-4 columns"> <!--side nav -->
 		<div class="hide-for-small">
-			<div class="sidebar">
-			
+			<div class="sidebar">		
 				<p></p>
 				<nav class="side-nav">
 					<ul class="side-nav">
@@ -54,22 +53,24 @@ header: no
 	<div class="large-8 medium-8 columns"> <!--container -->
 		<div class="large-12 columns large-centered">
 			<h3 class="light centered-text" itemprop="headline">Characterizing the genomic diversity, evolution and phylogeography of respiratory syncytial virus genotype ON1 in Kenya</h3>
-			<br>
-			<div class="row">
+		</div>
+		<br>
+		<div class="row">
 			<div class="large-6 columns">
 				<figure><img src="{{ site.url }}/images/on1-phylogeography.png" alt="" height="200" width="300"></figure>
 			</div>
-			</div>
-			<div class="row">
-			<div class="large-12 columns large-centered">
-			<p>A new variant of RSV was first identified in 2010 in Ontario Canada, named ON1, and subsequently spread globally, including Kenya. The project aims to track this variant within Kenya, and this has the potential to greatly improve understanding of the origins and fate of introduced RSV strains, their patterns of spread (temporally and spatially), and how this relates to evolution of the virus.</p>
-			
-			<p><strong> Study PI: </strong><a href="{{ site.url }}/james-otieno"> James Otieno (BSc, MSc)</a></p>
+		</div>
 
-			<p><Strong>Collaborators:</Strong><a href="https://rega.kuleuven.be/cev/ecv/lab-members/PhilippeLemey.html"> Philippe Lemmey</a></p>
+		<div class="row">
 			<div class="large-12 columns large-centered">
-			</div>
-			</div>
+				<p>A new variant of RSV was first identified in 2010 in Ontario Canada, named ON1, and subsequently spread globally, including Kenya. The project aims to track this variant within Kenya, and this has the potential to greatly improve understanding of the origins and fate of introduced RSV strains, their patterns of spread (temporally and spatially), and how this relates to evolution of the virus.</p>
+			
+				<p><strong> Study PI: </strong><a href="{{ site.url }}/james-otieno"> James Otieno (BSc, MSc)</a></p>
+
+				<p><Strong>Collaborators:</Strong><a href="https://rega.kuleuven.be/cev/ecv/lab-members/PhilippeLemey.html"> Philippe Lemmey</a></p>
+			<div class="large-12 columns large-centered">
+		</div>
 	</div> 
+	
 </div>
 </section>

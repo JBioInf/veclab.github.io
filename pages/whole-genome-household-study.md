@@ -11,7 +11,6 @@ header: no
 	<div class="large-4 medium-4 columns"> <!--side nav -->
 		<div class="hide-for-small">
 			<div class="sidebar">
-			
 				<p></p>
 				<nav class="side-nav">
 					<ul class="side-nav">
@@ -54,23 +53,24 @@ header: no
 	<div class="large-8 medium-8 columns"> <!--container -->
 		<div class="large-12 columns large-centered">
 			<h3 class="light centered-text" itemprop="headline">Genome Analysis to Track Transmission and Evolution of Respiratory Virus Epidemics</h3>
+		</div>
 			<br>
-			<div class="row">
-			<div class="large-12 columns large-centered">
+
+		<div class="large-12 columns large-centered">
 				<figure><img src="{{ site.url }}/images/Agoti-2015.png" alt="" height="200" width="225"></figure>
-			</div>
-			</div>
-			<div class="row">
-			<div class="large-12 columns large-centered">
-			<p>A wide range of respiratory viruses co-circulates in human populations and cause overlapping respiratory symptoms. Molecular analysis (e.g. PCR and partial sequencing) allows identification of virus species and genotyping to study the molecular epidemiology of these viruses. Within our SPReD studies, we undertake whole genome sequencing to obtain the fine detail of who acquires infection from whom and virus micro-evolutionary patterns.</p>
-		
+		</div>
+			
+		<div class="large-12 columns large-centered">
+			<p>A wide range of respiratory viruses co-circulates in human populations and cause overlapping respiratory symptoms. Molecular analysis (e.g. PCR and partial sequencing) allows identification of virus species and genotyping to study the molecular epidemiology of these viruses. Within our SPReD studies, we undertake whole genome sequencing to obtain the fine detail of who acquires infection from whom and virus micro-evolutionary patterns.</p>		
 			
 			<p><strong> Study PI: </strong><a href="#"> Charles Agoti (BSc, MSc, PhD)</a></p>
 
 			<p><Strong>Collaborators:</Strong> Matthew Cotten, Paul Kellam</p>
-			<div class="large-12 columns large-centered">
-			</div>
-			</div>
-	</div> 
+		</div>
+		
+		<div class="large-12 columns large-centered">
+		</div>
+	</div>
+
 </div>
 </section>
