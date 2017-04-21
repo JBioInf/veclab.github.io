@@ -1,6 +1,5 @@
 ---
-layout: page-fullwidth
-#subheadline: "Intervention Modelling"
+layout: page-fullwidth 
 permalink: "/intervention-modelling/"
 header: no
 ---
@@ -8,10 +7,10 @@ header: no
 <section role="main" class="scroll-container">
 
 <div class="row">
-	<div class="large-4 medium-4 columns"> <!--side nav -->
+
+<div class="large-4 medium-4 columns"> <!--side nav -->
 		<div class="hide-for-small">
 			<div class="sidebar">
-			
 				<p></p>
 				<nav class="side-nav">
 					<ul class="side-nav">
@@ -52,25 +51,30 @@ header: no
 	</div>
 
 	<div class="large-8 medium-8 columns"> <!--container -->
-		<div class="large-12 columns large-centered">
-			<h3 class="light centered-text" itemprop="headline">Modelling transmission and control interventions</h3>
-			<br>
-			<div class="row">
+			<div class="large-12 columns large-centered">
+				<h3 class="light centered-text" itemprop="headline">Modelling transmission and control interventions</h3>
+				<br>
+			</div>
 			<div class="large-12 columns large-centered">
 				<figure><img src="{{ site.url }}/images/intervention-modelling.png" alt="" height="200" width="225"></figure>
 			</div>
-			</div>
-			<div class="row">
-			<div class="large-12 columns large-centered">
-			<p>Work is planned to develop transmission dynamic models of respiratory viruses within the Kenya setting that integrate a spatial component informed by (a) transmission patterns from case surveillance and virus nucleotide sequences, and (b) population flux and demographic structure and dynamics. Model frameworks, such as meta-population or individual based, will be devised as appropriate to reflect data scale and quantity (e.g. countrywide or local; aggregated or individual), mobility data (e.g. mobile phone, transport, time use, GPS tracking and proximity sensing), and intervention modality (e.g. national routine vaccination for target groups, school-based social distancing, and household cocooning). </p>
 			
-			<p><strong> Study PI: </strong></p>
+			<div class="large-12 columns large-centered">
+					<p>Work is planned to develop transmission dynamic models of respiratory viruses within the Kenya setting that integrate a spatial component informed by (a) transmission patterns from case surveillance and virus nucleotide sequences, and (b) population flux and demographic structure and dynamics. Model frameworks, such as meta-population or individual based, will be devised as appropriate to reflect data scale and quantity (e.g. countrywide or local; aggregated or individual), mobility data (e.g. mobile phone, transport, time use, GPS tracking and proximity sensing), and intervention modality (e.g. national routine vaccination for target groups, school-based social distancing, and household cocooning). </p>
+			
+					<p><strong> Study PI: </strong></p>
 
-			<p><Strong>Collaborators:</Strong> Matt Keeling</p>
+					<p><Strong>Collaborators:</Strong> Matt Keeling</p>
+			</div>
+				
 			<div class="large-12 columns large-centered">
 			</div>
-			</div>
-	</div> 
-</div>
-</section>
+	</div>
+	
+	
+</div> 
+
+</section> 
+
+
 
