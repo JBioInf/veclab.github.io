@@ -85,7 +85,7 @@ in Tanzania and SBRI (now Center for Infectious Disease Research) and attended b
 <ul class="nobull">
 	<h6><a href="">Genome sequence of the tsetse fly (Glossina morsitans): vector of African trypanosomiasis</a></h6>
 	<p>International Glossina Genome Initiative.
-	<br><em><strong>Science, 344(6182), pp.380-386</strong> (2014)</em> </p>
+	<br><strong>Science, 344(6182), pp.380-386</strong> (2014) </p>
 </ul>
 </div>
 <hr>
@@ -97,10 +97,10 @@ in Tanzania and SBRI (now Center for Infectious Disease Research) and attended b
         <p> Warimwe, G.M., Fegan, G., Musyoki, J.N., Newton, C.R., Opiyo, M., <strong>Githinji, G.,</strong> Andisi, C., Menza, F., Kitsao, B., Marsh, K. and Bull, P.C.
 	
         <br>
-        <em>
+        
         <strong>
         Science translational medicine, 4(129), pp.129ra45-129ra45 (2012)
-        </em>
+      
         </strong>
         </p>
 </ul>
@@ -114,10 +114,8 @@ in Tanzania and SBRI (now Center for Infectious Disease Research) and attended b
 
 	<p>Bonnal, R.J., Aerts, J., <strong>Githinji, G.,</strong> Goto, N., MacLean, D., Miller, C.A., Mishima, H., Pagani, M., Ramirez-Gonzalez, R., Smant, G. and Strozzi, F.
 	
-        <br><em>
-        <strong>Bioinformatics, 28(7), pp.1035-1037.(2012)
-        </strong>
-        </em>
+        <br>
+        <strong>Bioinformatics, 28(7), pp.1035-1037.(2012)</strong>
         </p>
 </ul>
 </div>
