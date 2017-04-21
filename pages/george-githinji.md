@@ -71,26 +71,6 @@ Before joining the programme, I trained under Dr Patrick Duffy as a visiting stu
 in Tanzania and SBRI (now Center for Infectious Disease Research) and attended bioinformatics courses at the University of Washington.
 </p>
 
-
-<!-- Affiliation
-<p><h5>Affiliation</h5></p>
-<ul>
-<li><a href="https://www2.warwick.ac.uk/fac/sci/lifesci/people/djnokes/">School of Life Sciences and WIDER, University of Warwick</a></li>
-</ul>
-</div>  -->
-
-
-<!-- Current Projects
-<div class="row">
-<p><h5>Current Projects </h5></p>
-<ul>
-<li><strong>Defining pathways of respiratory virus transmission leading to improved intervention strategies (Investigator Award in Biomedical Science)</strong> 
-<br> Funded by: Wellcome Trust, Project Start Date 01-07-2014 - Project End Date 30-06-2019 </li>
-</ul>
-</div>  -->
-
-
-<!-- publications -->
 </div>
 
 <br>
@@ -113,8 +93,16 @@ in Tanzania and SBRI (now Center for Infectious Disease Research) and attended b
 <div class="row">
 <ul class="nobull">
 	<h6><a href="">Prognostic indicators of life-threatening malaria are associated with distinct parasite variant antigen profiles</a></h6>
-	<p>Warimwe, G.M., Fegan, G., Musyoki, J.N., Newton, C.R., Opiyo, M., Githinji, G., Andisi, C., Menza, F., Kitsao, B., Marsh, K. and Bull, P.C.
-	<br><em><strong>Science translational medicine, 4(129), pp.129ra45-129ra45. (2012)</em></strong></p>
+	
+        <p> Warimwe, G.M., Fegan, G., Musyoki, J.N., Newton, C.R., Opiyo, M., <strong>Githinji, G.,</strong> Andisi, C., Menza, F., Kitsao, B., Marsh, K. and Bull, P.C.
+	
+        <br>
+        <em>
+        <strong>
+        Science translational medicine, 4(129), pp.129ra45-129ra45 (2012)
+        </em>
+        </strong>
+        </p>
 </ul>
 </div>
 <hr>
@@ -126,10 +114,16 @@ in Tanzania and SBRI (now Center for Infectious Disease Research) and attended b
 
 	<p>Bonnal, R.J., Aerts, J., <strong>Githinji, G.,</strong> Goto, N., MacLean, D., Miller, C.A., Mishima, H., Pagani, M., Ramirez-Gonzalez, R., Smant, G. and Strozzi, F.
 	
-        <br><em><strong>Bioinformatics, 28(7), pp.1035-1037.(2012)</strong></em> </p>
+        <br><em>
+        <strong>Bioinformatics, 28(7), pp.1035-1037.(2012)
+        </strong>
+        </em>
+        </p>
 </ul>
 </div>
 <hr>
 
+<p>
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=george+githinji" target="_blank"> --> view all Dr. George Githinji's publications</a>
+</p>
 
