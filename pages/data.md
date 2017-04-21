@@ -4,7 +4,7 @@ header: no
 permalink: "/data/"
 ---
 
-<meta http-equiv="refresh" content="0; url=https://dataverse.harvard.edu/dataverse/vec" /> 
+<meta http-equiv="refresh" content="0; url=https://dataverse.harvard.edu/dataverse/vec"/> 
 
 <div class="row center">
 	<div class="large-9-centered columns">
@@ -18,19 +18,21 @@ permalink: "/data/"
 	</div>
 </div>
 
-<p></p>
+
+
 <div class="row center">
-	<div class="large-12 columns">
 		<div class= "large-3 columns">
 			<img src="{{ site.url }}/images/page-under-construction.png" alt="" height="200" width="225">	
 		</div>
 	
 		<div class="large-9 columns">
 			<br>
-			<p>This page is still under construction. You will be redirected to the VEC Repository hosted at https://dataverse.harvard.edu/dataverse/vec</p> 
+			<p>
+			This page is still under construction. You will be redirected to the VEC Repository hosted at https://dataverse.harvard.edu/dataverse/vec
+			</p> 
 
-			<p>If you are not automatically redirected to the repository, please click on this link <a href="https://dataverse.harvard.edu/dataverse/vec">Redirect
-			<a href="https://dataverse.harvard.edu/dataverse/vec" target="_blank"></a> </p>	
+			<p>
+			If you are not automatically redirected to the repository, please click on this link <a href="https://dataverse.harvard.edu/dataverse/vec">Redirect</a>
+			</p>	
 		</div>
-	</div>
 </div>
