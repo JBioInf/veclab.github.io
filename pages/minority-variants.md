@@ -62,13 +62,11 @@ header: no
 </div>
 
 <div class="row">
+  <div class="large-12 columns large-centered">
+    <p>Whole genome consensus sequence data provides information that represents the dominant virus subtype. It does not provide sufficient information for resolving transmission events particularly for rapidly spreading viruses.</p>
 
-<div class="large-12 columns large-centered">
-<p>Whole genome consensus sequence data provides information that represents the dominant virus subtype. It does not provide sufficient information for resolving transmission events particularly for rapidly spreading viruses.
 <p><strong> Study PI: </strong><a href="{{ site.url }}/george-githinji">George Githinji (PhD)</a></p>
 
-<p><Strong>Collaborators:</Strong> Colin Worby, Matt Cotten, Paul Kellam</p>
+<p><Strong>Collaborators:</Strong> Colin Worby, Matt Cotten</p>
 </div>
-</div>
-
 </section>
