@@ -35,7 +35,7 @@ header: no
 	<li>Kemri Wellcome Trust</li>
 	<li>Kilifi, Kenya</li>
 	<li>&#9742;: </li>
-	<li><a href="mailto:cagoti>kemri-wellcome<org" target="_top" onclick = "this.href=this.href
+	<li><a href="mailto:nkibinge>kemri-wellcome<org" target="_top" onclick = "this.href=this.href
               .replace(/>/,'&#64;')
               .replace(/</,'&#46;')"> &#9993; Email me</a></li>
 	
