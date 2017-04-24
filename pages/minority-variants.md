@@ -51,9 +51,13 @@ header: no
 </div>
 
 <div class="large-8 medium-8 columns"> <!--container -->
+
+<div class="row">
 <div class="large-12 columns large-centered">
 <h3 class="light centered-text" itemprop="headline">Exploring the role of RSV quasispecies during evolution and transmission</h3>
 <br>
+</div>
+</div>
 
 <div class="row">
 <div class="large-12 columns">
@@ -62,11 +66,13 @@ header: no
 </div>
 
 <div class="row">
-  <div class="large-12 columns large-centered">
-    <p>Whole genome consensus sequence data provides information that represents the dominant virus subtype. It does not provide sufficient information for resolving transmission events particularly for rapidly spreading viruses.</p>
-
+<div class="large-12 columns large-centered">
+<p>Whole genome consensus sequence data provides information that represents the dominant virus subtype. It does not provide sufficient information for resolving transmission events particularly for rapidly spreading viruses.</p>
 <p><strong> Study PI: </strong><a href="{{ site.url }}/george-githinji">George Githinji (PhD)</a></p>
-
 <p><Strong>Collaborators:</Strong> Colin Worby, Matt Cotten</p>
+</div>
+</div>
+
+</div>
 </div>
 </section>
