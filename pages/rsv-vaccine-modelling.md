@@ -8,10 +8,10 @@ header: no
 
 <section role="main" class="scroll-container">
 <div class="row">
+	
 	<div class="large-4 medium-4 columns"> <!--side nav -->
 		<div class="hide-for-small">
-			<div class="sidebar">
-			
+			<div class="sidebar">			
 				<p></p>
 				<nav class="side-nav">
 					<ul class="nobull">
@@ -53,18 +53,29 @@ header: no
 	</div>
 
 	<div class="large-8 medium-8 columns"> <!--container -->
-		<div class="large-12 columns">
-			<h3 class="light centered-text" itemprop="headline">RSV Vaccine Modelling</h3>
+		<div class="row">
+			<div class="large-12 columns">
+				<h3 class="light centered-text" itemprop="headline">RSV Vaccine Modelling</h3>
+			</div>
+		</div>
 			<br>
+		
+		<div class="row">
+			<div class="large-12 columns">
 			<p>
 			<img align="justify" src="{{ site.url }}/images/rsv-modelling.png" alt="" height="300" width="400">
 			</p>
-			
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="large-12 columns">	
 			<p class="text-justify">Projections of the population-level impact of vaccination against respiratory syncytial virus (RSV) using transmission dynamic models. This a GSK contracted study to inform vaccine design and implementation and is collaborative with MAEMOD at the Mahidol-Oxford Research Unit (MORU), WT Major Overseas Programme in Bangkok, Thailand. A confidentiality agreement prevents saying more</p>
 			
-			<p><Strong>Funding:</Strong> GSK Vaccines and Biologicals
+			<p><Strong>Funding:</Strong> GSK Vaccines and Biologicals </p>
 
 			<p><Strong>Collaborators:</Strong> Tim Kinyanjui, Wirichada Pan-Ngum, Lisa White,Thierry Van Effelterre, Sylvia Taylor</p>
+			</div>
 		</div>
 	</div>
   

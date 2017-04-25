@@ -8,6 +8,7 @@ header: no
 <section role="main" class="scroll-container">
 
 <div class="row">
+
 	<div class="large-4 medium-4 columns"> <!--side nav -->
 		<div class="hide-for-small">
 			<div class="sidebar">		
@@ -55,8 +56,9 @@ header: no
 			<h3 class="light centered-text" itemprop="headline">Characterizing the genomic diversity, evolution and phylogeography of respiratory syncytial virus genotype ON1 in Kenya</h3>
 		</div>
 		<br>
+		
 		<div class="row">
-			<div class="large-6 columns">
+			<div class="large-12 columns">
 				<figure><img src="{{ site.url }}/images/on1-phylogeography.png" alt="" height="200" width="300"></figure>
 			</div>
 		</div>
@@ -68,9 +70,9 @@ header: no
 				<p><strong> Study PI: </strong><a href="{{ site.url }}/james-otieno"> James Otieno (BSc, MSc)</a></p>
 
 				<p><Strong>Collaborators:</Strong><a href="https://rega.kuleuven.be/cev/ecv/lab-members/PhilippeLemey.html"> Philippe Lemmey</a></p>
-			<div class="large-12 columns large-centered">
-		</div>
-	</div> 
+			</div>
+		</div> 
+	</div>
 	
 </div>
 </section>

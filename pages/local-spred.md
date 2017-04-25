@@ -11,8 +11,7 @@ header: no
 <div class="row">
 	<div class="large-4 medium-4 columns"> <!--side nav -->
 		<div class="hide-for-small">
-			<div class="sidebar">
-			
+			<div class="sidebar">			
 				<p></p>
 				<nav class="side-nav">
 					<ul class="side-nav">
@@ -54,17 +53,15 @@ header: no
 
 	<div class="large-8 medium-8 columns"> <!--container -->
 		<div class="large-12 columns large-centered">
-			<h3 class="light centered-text" itemprop="headline">Transmission Pathways of Viral Respiratory Infections in Kilifi County (Local-SPReD)
-
-</h3>
+			<h3 class="light centered-text" itemprop="headline">Transmission Pathways of Viral Respiratory Infections in Kilifi County (Local-SPReD)</h3>
 			<br>
-			<div class="row">
-			<div class="large-12 columns large-centered">
+		</div>
+		
+		<div class="large-12 columns large-centered">
 				<figure><img src="{{ site.url }}/images/intervention-modelling.png" alt="" height="200" width="225"></figure>
-			</div>
-			</div>
-			<div class="row">
-			<div class="large-12 columns large-centered">
+		</div>
+			
+		<div class="large-12 columns large-centered">
 			<p>Acute respiratory infections (ARI) are a leading cause of morbidity and mortality among people of all ages, with majority of the burden occurring in low-resource countries. Many studies have associated viruses with ARI in children admitted to hospital, and immunisation is considered to be the most appropriate prevention strategy. However, immunisation is hindered by the rapid virus evolution, presence of diverse forms unequally recognised immunologically, waning of specific immunity and uncertainty in identifying the optimal target population.
 
 			A clear understanding of the spatial-temporal dynamics (introduction, spread and fade out) of respiratory viruses, genetic diversity and factors related to the spatial-temporal distribution and transmission potential of each respiratory virus would improve design of effective control strategies. We are conducting this surveillance to understand the origin, routes, patterns of spread and persistence of viruses causing ARI, in the outpatient of 9 health facilities (Matsangoni, Ngerenya, Sokoke, Mtondia, Mavueni, Jaribuni, Chasimba, Pingilikani and Junju), within Kilifi Health and Demographic Surveillance System (KHDSS).
@@ -77,11 +74,12 @@ header: no
 			<p><strong> Study PI: </strong><a href="http://virec-group.org/joyce-nyiro">Joyce Nyiro (BSc, MSc)</a></p>
 
 			<p><Strong>Collaborators:</Strong> Matt Keeling</p>
-			<div class="large-12 columns large-centered">
-			</div>
-			</div>
-	</div> 
+		</div>
+		
+	</div>
+	 
 </div>
+
 </section>
 
 

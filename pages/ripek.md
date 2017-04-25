@@ -8,10 +8,10 @@ header: no
 
 <section role="main" class="scroll-container">
 <div class="row">
+	
 	<div class="large-4 medium-4 columns"> <!--side nav -->
 		<div class="hide-for-small">
-			<div class="sidebar">
-			
+			<div class="sidebar">			
 				<p></p>
 				<nav class="side-nav">
 					<ul class="side-nav">
@@ -53,18 +53,30 @@ header: no
 	</div>
 
 	<div class="large-8 medium-8 columns"> <!--container -->
-		<div class="large-12 columns">
-			<h3 class="light centered-text" itemprop="headline">Rotavirus Immunization Program Evaluation Kenya (RIPEK)</h3>
+		<div class="row">
+			<div class="large-12 columns">
+				<h3 class="light centered-text" itemprop="headline">Rotavirus Immunization Program Evaluation Kenya (RIPEK)</h3>
+			</div>
+		</div>
 			<br>
+		<div class="row">
+			<div class="large-12 columns">
 			<p>
 			<img align="justify" src="{{ site.url }}/images/rota_positive_2010_2016.png" alt="" height="340" width="500">
 			</p>
-			<p class="text-justify">
-			A comprehensive countrywide evaluation of the introduction of rotavirus vaccination in Kenya. This is collaborative with CDC-Kenya, WRP-Kenya, Kenya MoH, and CDC and Emory Atlanta, USA. Central is a before-after evaluation of impact on disease incidence which will also assess replacement and origins of genotypes and variants using partial and whole genome sequencing.
-			</p>
-			<p><Strong>Funding:</Strong> GAVI
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="large-12 columns">
+				<p class="text-justify">
+				A comprehensive countrywide evaluation of the introduction of rotavirus vaccination in Kenya. This is collaborative with CDC-Kenya, WRP-Kenya, Kenya MoH, and CDC and Emory Atlanta, USA. Central is a before-after evaluation of impact on disease incidence which will also assess replacement and origins of genotypes and variants using partial and whole genome sequencing.
+				</p>
+				<p><Strong>Funding:</Strong> GAVI</p>
 
-			<p><Strong>Collaborators:</Strong> Jessica Cowden, Jennifer Verani, Collins Tabu, Jaqueline Tate, Umesh Parashar, Rob Breiman</p>
+				<p><Strong>Collaborators:</Strong> Jessica Cowden, Jennifer Verani, Collins Tabu, Jaqueline Tate, Umesh Parashar, Rob Breiman</p>
+			</div>
+		</div>
 	</div>
   
 </div>

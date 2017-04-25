@@ -8,6 +8,7 @@ header: no
 <section role="main" class="scroll-container">
 
 <div class="row">
+
 	<div class="large-4 medium-4 columns"> <!--side nav -->
 		<div class="hide-for-small">
 			<div class="sidebar">
@@ -52,14 +53,19 @@ header: no
 	</div>
 
 	<div class="large-8 medium-8 columns"> <!--container -->
-		<div class="large-12 columns large-centered">
+			<div class="row">
+			<div class="large-12 columns large-centered">
 			<h3 class="light centered-text" itemprop="headline">Integrating sequence and epidemiological data to define RSV transmission patterns</h3>
+			</div>
+			</div>
 			<br>
+			
 			<div class="row">
 			<div class="large-6 columns">
 				<figure><img src="{{ site.url }}/images/WAIFW.png" alt="" height="200" width="225"></figure>
 			</div>
 			</div>
+			
 			<div class="row">
 			<div class="large-12 columns large-centered">
 			<p>In order to control diseases, we first need to increase our understanding of transmission. This can be aided by analyzing as much data as possible within a single framework. This project aims to integrate different data types in a single mathematical model in order to infer the transmission chain. </p>
@@ -67,9 +73,9 @@ header: no
 			<p><strong> Study PI: </strong><a href="{{ site.url }}/ivy-kombe">  Ivy Kadzo Kombe (PhD student))</a></p>
 
 			<p><Strong>Collaborators:</Strong> Graham Medley, Marc Baguelin</p>
-			<div class="large-12 columns large-centered">
 			</div>
 			</div>
 	</div> 
+	
 </div>
 </section>
