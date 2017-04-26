@@ -53,18 +53,30 @@ header: no
 	</div>
 
 	<div class="large-8 medium-8 columns"> <!--container -->
-		<div class="large-12 columns">
-			<h3 class="light centered-text" itemprop="headline">Quantifying RSV Protective Immunity Correlates</h3>
+		<div class="row">
+			<div class="large-12 columns">
+				<h3 class="light centered-text" itemprop="headline">Quantifying RSV Protective Immunity Correlates</h3>
+			</div>
+		</div>
+		
 			<br>
+		<div class="row">
+			<div class="large-12 columns">
 			<p>
 			<img  class="grow" align="center" src="{{ site.url }}/images/path2.png" alt="" height="300" width="400">
 			</p>
-			
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="large-12 columns">	
 			<p class="text-justify">PATH favour the maternal vaccine approach to boost infant passive immunity and delay the first, most severe, infection. To support this we are undertaking serological studies of RSV passive antibody dynamics, evaluating alternative assays to PRNT and identify the protective efficacy of passive immunity in a cohort and case control study.</p>
 			
 			<p><Strong>Funding:</Strong> PATH Vaccine Solutions</p>
 
 			<p><Strong>Collaborators:</Strong> Deborah Higgins</p>
+			</div>
+		</div>
 	</div>
   
 </div>

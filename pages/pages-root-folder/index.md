@@ -73,22 +73,10 @@ homepage: true
         
         <div class="large-4 columns text-center" style="border-left: dotted #d8d8d8 1px;">
     	<div class="corner-ribbon top-left  blue shadow">In the News</div>
-		<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Swabs taken <a href="https://twitter.com/hashtag/DNA?src=hash">#DNA</a> Next-Gen sequenced,full genomes assembled all in house <a href="https://twitter.com/hashtag/Kilifi?src=hash">#Kilifi</a> Milestone! <a href="https://twitter.com/biorelated">@biorelated</a> <a href="https://twitter.com/nokesdj">@nokesdj</a> <a href="https://twitter.com/cnyaigoti">@cnyaigoti</a> <a href="https://twitter.com/veclab_KEMRI_WT">@veclab_KEMRI_WT</a> <a href="https://t.co/fzHxz6XlOF">pic.twitter.com/fzHxz6XlOF</a></p>&mdash; KEMRI-Wellcome Trust (@KEMRI_Wellcome) <a href="https://twitter.com/KEMRI_Wellcome/status/850345144473849856">7 April 2017</a></blockquote>
+		<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Predicting impacts of maternal and neonatal respiratory syncytial virus (RSV) vaccine target product profiles: <a href="https://t.co/CvUid8kIUl">https://t.co/CvUid8kIUl</a> <a href="https://t.co/ZLvo7hiYcY">pic.twitter.com/ZLvo7hiYcY</a></p>&mdash; James Nokes (@nokesdj) <a href="https://twitter.com/nokesdj/status/855428481383006208">21 April 2017</a></blockquote>
 		<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>        
 		</div><!-- /.col-lg-4 -->
     
-    </div><!-- /.row -->
-
-
-<!--
-<div class="large-4 columns text-center" style="border-left: dotted #d8d8d8 1px;">
-    	<div class="corner-ribbon top-left  blue shadow">Award</div>
-		<br>
-          <img class="img-rounded" src="{{ site.url }}/images/Joyce-Nyiro.jpg" alt="Generic placeholder image" width="180" height="40">
-          <p>
-          <h6><em><Light>Everyday, we interact with people from different backgrounds. These backgrounds determine whom we meet, where we meet, and the duration of the interaction.</Light></em></h6></p>
-          <p><a class="btn btn-secondary" href="http://virec-group.org/blog/Quantifying-social-contacts-in-a-household-setting-of-rural-Kenya" role="button">Read Blog &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
 
 </section>
