@@ -78,7 +78,7 @@ My main research interests are in the development and validation of prognostic b
 <ul class="nobull">
 <h6><a href="">Non-specific immunological effects of selected routine childhood immunisations: systematic review.</a></h6>
 <p>Kandasamy, R., Voysey, M., McQuaid, F., de Nie, K., Ryan, R., Orr, O., Uhlig, U., Sande, C., O’Connor, D. and Pollard, A.J.
-<br><strong> bmj, 355, p.i5225 (2016) </p>
+<br><strong> bmj, 355, p.i5225 (2016)</strong></p>
 </ul>
 </div>
 <hr>

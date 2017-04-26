@@ -53,18 +53,30 @@ header: no
 	</div>
 
 	<div class="large-8 medium-8 columns"> <!--container -->
-		<div class="large-12 columns">
-			<h3 class="light centered-text" itemprop="headline">Infection Dynamics in a Demographic Transition</h3>
+		<div class="row">
+			<div class="large-12 columns">
+				<h3 class="light centered-text" itemprop="headline">Infection Dynamics in a Demographic Transition</h3>
+			</div>
+		</div>	
 			<br>
-			<p>
-			<img align="center" src="{{ site.url }}/images/decide.png" alt="" height="300" width="400">
-			</p>
-			
+		
+		<div class="row">
+			<div class="large-12 columns">
+				<p>
+					<img align="center" src="{{ site.url }}/images/decide.png" alt="" height="300" width="400">
+				</p>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="large-12 columns">
 			<p class="text-justify">The impact of Demographic Changes on Infectious DisEases transmission and control in middle/low income countries (DECIDE). The demographic transition has implications to infectious disease epidemiology and intervention design. With Bocconi University we are quantifying urban-rural social mixing in coastal Kenya which will support Individual Based Modelling (IBM) of infection transmission.</p>
 			
 			<p><Strong>Funding:</Strong> European Research Council</p>
 
 			<p><Strong>Collaborators:</Strong> Emanuele del Feve, Piero Poletti, Alessia Melegaro, Piero Manfredi, John Williams, Simon Gregson</p>
+			</div>
+		</div>
 	</div>
   
 </div>

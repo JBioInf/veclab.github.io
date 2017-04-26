@@ -8,6 +8,7 @@ header: no
 
 <section role="main" class="scroll-container">
 <div class="row">
+
 	<div class="large-4 medium-4 columns"> <!--side nav -->
 		<div class="hide-for-small">
 			<div class="sidebar">
@@ -53,18 +54,28 @@ header: no
 	</div>
 
 	<div class="large-8 medium-8 columns"> <!--container -->
-		<div class="large-12 columns">
-			<h3 class="light centered-text" itemprop="headline">The Household Cohort Study: Who Acquires Infection From Whom?</h3>
-			<br>
+		<div class="row">
+			<div class="large-12 columns">
+				<h3 class="light centered-text" itemprop="headline">The Household Cohort Study: Who Acquires Infection From Whom?</h3>
+			</div>
+		</div>
+		<br>
+		
+		<div class="row">
+			<div class="large-12 columns">			
 			<p>
 			<img align="center" src="{{ site.url }}/images/household-study.png" alt="" height="300" width="400">
 			</p>
-			
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="large-12 columns">
 			<p class="text-justify">A cohort of 47 households (493 members) was intensively sampled for six months from December 2009 yielding 16928 nasal specimens. A multiplex PCR assay targeting 16 respiratory pathogens was used to screen the specimens. The arising multiple infection data has been used to define and quantify (i) who infects the vulnerable infants; (ii) factors influencing virus shedding; (iii) the risk of asymptomatic infections; (iii) co-circulation of viruses and (iv) within- and between-host virus evolution using whole genome and minority variants analysis.</p>
 			
 			<p><Strong>Funding:</Strong> Wellcome Trust Programme Grant</p>
-
-			
+		</div>
+		</div>			
 	</div>
   
 </div>

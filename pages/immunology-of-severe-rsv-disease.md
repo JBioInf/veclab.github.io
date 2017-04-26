@@ -53,18 +53,30 @@ header: no
 	</div>
 
 	<div class="large-8 medium-8 columns"> <!--container -->
-		<div class="large-12 columns">
-			<h3 class="light centered-text" itemprop="headline">Immunology of Severe RSV Disease</h3>
+		<div class="row">
+			<div class="large-12 columns">
+				<h3 class="light centered-text" itemprop="headline">Immunology of Severe RSV Disease</h3>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="large-12 columns">
 			<br>
 			<p>
 			<img align="center" src="{{ site.url }}/images/immunology-study.png" alt="" height="300" width="300">
 			</p>
-			
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="large-12 columns">
 			<p class="text-justify">In this study we use systems immunology approaches to identify biomarkers of severe Respiratory Syncytial Virus infection in infancy. We use a wide range of systems tools ranging from transcriptomics, mass cytometry, metabolomics and studies of the respiratory microbiome to identify host factors that are uniquely expressed in severe disease.</p>
 			
 			<p><Strong>Funding:</Strong> Wellcome Trust Training Fellowship</p>
 
 			<p><Strong>Collaborators:</Strong> Andrew Pollard, Peter Openshaw, Helder Nakaya</p>
+		</div>
+		</div>
 	</div>
   
 </div>
