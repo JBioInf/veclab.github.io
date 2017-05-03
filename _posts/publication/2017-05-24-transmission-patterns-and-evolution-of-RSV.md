@@ -16,7 +16,7 @@ comments: true
 author: Charles
 ---
 <figure> 
-  <center><img src="{{ site.url }}/images/article_img/Kiti-2016-EPJDS.jpeg" alt="" height="400" width="400"></center>
+  <center><img src="{{ site.url }}/images/hompeage_img/agoti-ve-2017.png" alt="" height="400" width="400"></center>
 </figure>
 
 <p class="text-justify lead">
