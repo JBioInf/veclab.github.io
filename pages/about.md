@@ -15,12 +15,6 @@ header: no
 				<nav class="side-nav">
 					<ul class="side-nav">
 						<li class="active"><a href="#">Background</a></li>
-						<li>
-						<a href="#">Vision & Mission</a>
-						</li>
-						<li>
-    						<a href="#">Areas of interest</a>
-  						</li>
 					</ul>
 				</nav>
 			</div>
