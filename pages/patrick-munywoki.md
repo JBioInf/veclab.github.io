@@ -106,7 +106,8 @@ in Kenya and identify potential control strategies.
 <ul class="nobull">
 	<h6><a href="">Quantification and determinants of the amount of respiratory syncytial virus (RSV) shed using real time PCR data from a longitudinal household study</a></h6>
 	<p>Wathuo, M., Medley, G.F., Nokes, D.J. and Munywoki, P.K.
-	<br><em><strong> Wellcome open research, 1(27) (2016)</em> </p>
+	
+	<br><em><strong> Wellcome open research, 1(27) (2016)</strong></em></p>
 </ul>
 </div>
 <hr>
@@ -115,7 +116,7 @@ in Kenya and identify potential control strategies.
 <ul class="nobull">
 	<h6><a href="">Absence of association between cord specific antibody levels and severe respiratory syncytial virus (RSV) disease in early infants: a case control study from coastal Kenya.</a></h6>
 	<p>Nyiro, J.U., Sande, C.J., Mutunga, M., Kiyuka, P.K., Munywoki, P.K., Scott, J.A.G. and Nokes, D.J.
-	<br><em><strong>PLoS One, 11(11), p.e0166706 (2016)</em> </p>
+	<br><em><strong>PLoS One, 11(11), p.e0166706 (2016)</strong></em></p>
 </ul>
 </div>
 <hr>
