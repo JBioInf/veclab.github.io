@@ -11,29 +11,37 @@ permalink: "/data/"
 <div id="containerMainBack">
 	
 	<div id="containerMain">
-	
-		
-			<div id="sidebar_data">
-				<ul id="subnav_data">
-					<li class="selected"><a href="#">Overview</a></li>
+	<div class="large-3 medium-3 columns"> <!--side nav -->
+		<div class="hide-for-small">	
+			<div class="sidebar">			
+				<p></p>
+				<nav class="side-nav">
+					<ul class="side-nav nobull">
+					<li class="active"><a href="#">Overview</a></li>
 					<li><a href="#about">About the Collection</a></li>
 					<li><a href="#services">Data management and Curation Services</a></li>
 					<li><a href="#toolkit">Data Management Toolkit</a></li>
 				</ul>
-				<div class="partner"></div>
+				</nav>
 			</div>
+		</div>
+	</div>
+			
+	<div class="large-8 medium-8 columns"> <!--container -->
+		<div class="large-12 columns">		
 			<div id="containerRight">
 				<div id="breadcrumb_data" class="breadcrumb_data">
 				<a href="{{ site.url }}/">Home</a>
 				<div class="next"> > </div>
 				Repository
 				</div>
+				
 				<div id="content_data">
 					<h4 style="text-align: right"><a href="https://dataverse.harvard.edu/dataverse/vec" class="more" target="_blank">
 					<img src="{{ site.url }}/images/data_page_folder/double-arrowhead-right.png" class="arrow">  Browse our Collection</a></h4>
 					
 					<div class="sectionDescription border">
-						<a href="#">
+						<a href="#" title="Image Source: http://info.tectrade.com/blog/cost-effective-archiving/">
 						<img src="{{ site.url }}/images/data_page_folder/Archiving.jpg"   class="sectionImage">
 						</a>
 						<h4 id="about"><a href="#">About the collection</a></h4>
@@ -49,7 +57,7 @@ permalink: "/data/"
 					
 					
 					<div class="sectionDescription border">
-						<a href="#">
+						<a href="#" title="Image Source: http://www.dcc.ac.uk/resources/curation-lifecycle-model">
 						<img src="{{ site.url }}/images/data_page_folder/curation_cycle.png" class="sectionImage">
 						</a>
 						<h4 id="services"><a href="#">Data Management and Curation Services</a></h4>
@@ -65,7 +73,7 @@ permalink: "/data/"
 					
 				
 					<div class="sectionDescription border">
-						<a href="#">
+						<a href="#" title="Image Source: https://www.slideshare.net/carlystrasser/niso-webinar-on-data-curation-part-2-of-2">
 						<img src="{{ site.url }}/images/data_page_folder/tools.jpg" class="sectionImage">
 						</a>
 						<h4 id="toolkit"><a href="#">Data Management Toolkit</a></h4>
@@ -89,7 +97,10 @@ permalink: "/data/"
 					</div>
 					
 				</div>
-			</div>
+			</div> <!--containerRight-->
+		</div>
+	</div>
+	
 	</div>
 </div>
 </div>

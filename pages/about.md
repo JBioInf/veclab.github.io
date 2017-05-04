@@ -22,6 +22,7 @@ header: no
 	</div>
 
 	<div class="large-9 medium-8 columns"> <!--container -->
+	<div class="row">
 		<div class="large-12 columns">
 			<h3>Our Background</h3>
 			<p class="text-justify">
@@ -30,28 +31,29 @@ header: no
 			viruses with an aim of improving strategies of control. 
 			We are also engaged in long term surveillence of burden of disease estimation, vaccine interventions evaluation and immuno-epidemiological research.
 			</p>
-		
-			
+		</div>	
+	</div>
+	
+	<div class="row">
+  		<div class="small-12 columns">
+  			<figure>
+   				<img src="{{ site.url }}/images/about.png" alt="RSV A and B prevalence from 2002 to 2016">
+  				<figcaption>
+  				<center> Seasonality of  RSV in Kilifi from 2002 to 2016</center>
+ 				</figcaption>
+ 			</figure>
+  		</div>
+	</div>
 
-<div class="row">
-  <div class="small-12 columns">
-  <figure>
-   <img src="{{ site.url }}/images/about.png" alt="RSV A and B prevalence from 2002 to 2016">
-  <figcaption>
-  <center> Seasonality of  RSV in Kilifi from 2002 to 2016</center>
-  </figcaption>
-  </figure>
-  </div>
-</div>
-
-
-<p class="text-justify">
-Our research is multi-disciplinary and applies a wide range of approaches that involve the application and development of molecular, 
-immunological, bioinformatics, mathematical modelling, electronic tagging and social tools. This is not done alone, and we have an excellent group of collaborators.
-</p>
-
-
-</div>  
+	<div class="row">
+  		<div class="small-12 columns">
+			<p class="text-justify">
+				Our research is multi-disciplinary and applies a wide range of approaches that involve the application and development of molecular, 
+				immunological, bioinformatics, mathematical modelling, electronic tagging and social tools. This is not done alone, and we have an excellent group of collaborators.
+			</p>
+		</div>
+	</div>
+	</div>  
 </div>
 </section>
 
