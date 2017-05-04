@@ -72,7 +72,7 @@ homepage: true
         </div><!-- /.col-lg-4 -->
         
         <div class="large-4 columns text-center" style="border-left: dotted #d8d8d8 1px;">
-    	<div class="corner-ribbon top-left  ">Twitter Feeds</div>
+    	<div class="corner-ribbon top-left  ">Twitter</div>
 		<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Predicting impacts of maternal and neonatal respiratory syncytial virus (RSV) vaccine target product profiles: <a href="https://t.co/CvUid8kIUl">https://t.co/CvUid8kIUl</a> <a href="https://t.co/ZLvo7hiYcY">pic.twitter.com/ZLvo7hiYcY</a></p>&mdash; James Nokes (@nokesdj) <a href="https://twitter.com/nokesdj/status/855428481383006208">21 April 2017</a></blockquote>
 		<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>        
 		</div><!-- /.col-lg-4 -->
