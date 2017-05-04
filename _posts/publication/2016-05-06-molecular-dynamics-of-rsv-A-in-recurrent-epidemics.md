@@ -15,7 +15,7 @@ comments: true
 author: James
 ---
 <figure> 
-  <center><img src="{{ site.url }}/images/hompepage_img/agoti-ve-2017.png" alt="" height="400" width="400"></center>
+  <center><img src="{{ site.url }}/images/article_img/molecular-dynamics-of-rsv-A-in-recurrent-epidemics.jpeg" alt="" height="400" width="400"></center>
 </figure>
 
 <p class="text-justify lead">
