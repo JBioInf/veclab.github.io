@@ -22,20 +22,7 @@ homepage: true
 </section>
 </div>
 
-<br>
-
-
 <hr>
-
-<div>
-<section>
-<center>
-<h3>
-   Highlights
-</h3>
-</center>
-</section>
-</div>
 
 <br>
 
