@@ -25,7 +25,7 @@ homepage: true
 <hr>
 
 <br>
-
+<section>
 <!--<center>
 <a href="{{ site.url }}/about" class="button radius">About us</a>
 <a href="{{ site.url }}/research" class="button radius">Our Research</a>
@@ -95,3 +95,4 @@ homepage: true
   </center>
   </div>
   </div>
+  </section>
