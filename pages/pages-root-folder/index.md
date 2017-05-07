@@ -29,7 +29,11 @@ homepage: true
 
 <div>
 <section>
-   <center><h3>Highlights</h3></center>
+<center>
+<h3>
+   Highlights
+</h3>
+</center>
 </section>
 </div>
 
@@ -47,44 +51,66 @@ homepage: true
 <section>
 
 	<!-- START THE FEATURETTES -->
-	
-      <!-- Three columns of text below the carousel -->
-      <div class="row">
-     
-        <div class="large-4 columns  text-center" style="border-right: dotted #d8d8d8 1px;">
 
-    	<div class="corner-ribbon top-left   ">New Article</div>
-		<br>
-          <img class="img-rounded" src="{{ site.url }}/images/hompepage_img/agoti-ve-2017.png" alt="Generic placeholder image" width="180" height="140">
-          <p></p>
-          <!--<h4>Latest Publication</h4>-->
-          <p>Transmission patterns and evolution of respiratory syncytial virus in a community outbreak identified by genomic analysis.</p>
-          <p><a class="btn btn-secondary" href="https://academic.oup.com/ve/article/doi/10.1093/ve/vex006/3066353/Transmission-patterns-and-evolution-of-respiratory" target="_blank" role="button">Read More &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        
-        <div class="large-4 columns  text-center" >
-        <div class="corner-ribbon top-left   ">Award</div>
-		<br>
-          <img class="img-rounded" src="{{ site.url }}/images/Joyce-Nyiro.jpg" alt="Generic placeholder image" width="100" height="40">
-          <p>
-         <a href="{{ site.url }}/joyce-nyiro">Joyce Nyiro</a>, Research Officer studying mechanisms for quantifying maternally derived protective immunity correlates for RSV, has been awarded a fully funded place on the <a href="http://www.jenner.ac.uk/vaccinology-in-africa-course">2017 Vaccinology in Africa course</a>. The course received 268 applications for 40 bursary places, 20 of which are reserved for residents of Uganda and 20 places for residents from other East African countries</p>
-          <p><a class="btn btn-secondary" href="http://www.jenner.ac.uk/vaccinology-in-africa-course" role="button">View award details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        
-        <div class="large-4 columns text-center" style="border-left: dotted #d8d8d8 1px;">
-    	<div class="corner-ribbon top-left  ">Twitter</div>
-		<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Predicting impacts of maternal and neonatal respiratory syncytial virus (RSV) vaccine target product profiles: <a href="https://t.co/CvUid8kIUl">https://t.co/CvUid8kIUl</a> <a href="https://t.co/ZLvo7hiYcY">pic.twitter.com/ZLvo7hiYcY</a></p>&mdash; James Nokes (@nokesdj) <a href="https://twitter.com/nokesdj/status/855428481383006208">21 April 2017</a></blockquote>
-		<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>        
-		</div><!-- /.col-lg-4 -->
-    
-    </div><!-- /.row -->
+  <!-- Three columns of text below the carousel -->
+  <div class="row">
 
-</section>
+  <div class="large-4 columns  text-center" style="border-right: dotted #d8d8d8 1px;">
 
-<hr>
-<div class="row">
- <div class="small-10 small-centered columns">
-  <center><img src="{{ site.url }}/images/warwick-kemri-logo.png" alt=""></center>
- </div>
-</div>
+  <div class="">
+  <h5>New Article</h5>
+  </div>
+  <br>
+  <img class="img-rounded;" style="background: #E4E4E4; height: 150px;" src="{{ site.url }}/images/hompepage_img/agoti-ve-2017.png" alt="Agoti et al">
 
+  <p class="text-justify">
+  In a recent paper, <a href="{{ site.url }}/charles-agoti">Charles Agoti</a> and colleagues describe the 
+  <a href="https://academic.oup.com/ve/article-lookup/doi/10.1093/ve/vex006">transmission patterns
+  and evolution of respiratory syncytial virus in the community using genomic analysis </a>. The findings 
+  support the hypothesis that RSV transmission within households is common among members of the same household. 
+  </p>
+
+  </div><!-- /.col-lg-4 -->
+
+  <div class="large-4 columns  text-center" >
+
+  <div class="">
+  <h5>Award </h5>
+  </div>
+  <br>
+  <img class="img-rounded" style="background: #E4E4E4; height: 150px;" src="{{ site.url }}/images/Joyce-Nyiro.jpg" alt="Joyce Nyiro">
+  <p class="text-justify">
+  <a href="{{ site.url }}/joyce-nyiro">Joyce Nyiro</a>,
+  a research officer studying mechanisms for quantifying maternally derived protective 
+  immunity correlates for RSV, was awarded a fully-funded place at the 
+  <a href="http://www.jenner.ac.uk/vaccinology-in-africa-course">2017 Vaccinology in Africa course</a>.
+  The course received 268 applications for 40 bursary places, 20 of which were reserved for Ugandan residents 
+  and 20 places for other East African residents</p>
+  </div><!-- /.col-lg-4 -->
+
+
+  <div class="large-4 columns text-center" style="border-left: dotted #d8d8d8 1px;">
+  <div id="twittertimeline">
+  <a class="twitter-timeline" data-lang="en" data-width="350" data-height="400" data-theme="light" data-link-color="#19CF86" 
+  href="https://twitter.com/veclab_KEMRI_WT">
+  Tweets by veclab_KEMRI_WT</a>
+  <script async src="//platform.twitter.com/widgets.js" charset="utf-8">
+  </script>
+  <br>
+  <a class="twitter-follow-button"
+  href="https://twitter.com/veclab_KEMRI_WT"
+  data-size="large">
+  Follow @veclab_KEMRI_WT</a>
+  </div>
+
+  </div>
+  </section>
+
+  <hr>
+  <div class="row">
+  <div class="small-10 small-centered columns">
+  <center>
+  <img src="{{ site.url }}/images/warwick-kemri-logo.png" alt="">
+  </center>
+  </div>
+  </div>
