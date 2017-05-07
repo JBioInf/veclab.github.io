@@ -5,24 +5,19 @@ permalink: "/data/"
 ---
 
 <div class="row">
+<!--
 <div id="sectionTitle">
 <img src="{{ site.url }}/images/data_page_folder/RSV_struct3.png" alt="" height="100" width="100"  class="sectionImage">
-<br> Virus Epidemiology and Control Digital Research Repository</div>
+<br> Virus Epidemiology and Control Digital Research Repository
+-->
+
+</div>
+
 <div id="containerMainBack">
 <div id="containerMain">
+
 <div class="large-3 medium-3 columns"> <!--side nav -->
 <div class="hide-for-small">
-<div class="sidebar">
-<p></p>
-<nav class="side-nav">
-<ul class="side-nav nobull">
-<li class="active"><a href="#">Overview</a></li>
-<li><a href="#about">About the Collection</a></li>
-<li><a href="#services">Data management and Curation Services</a></li>
-<li><a href="#toolkit">Data Management Toolkit</a></li>
-</ul>
-</nav>
-</div>
 </div>
 </div>
 
@@ -36,21 +31,26 @@ Repository
 </div>
 
 <div id="content_data">
-<h4 style="text-align: right"><a href="https://dataverse.harvard.edu/dataverse/vec" class="more" target="_blank">
-<img src="{{ site.url }}/images/data_page_folder/double-arrowhead-right.png" class="arrow">  Browse our Collection</a></h4>
+<h4 style="text-align: left">
+<a href="https://dataverse.harvard.edu/dataverse/vec" class="more" target="_blank">
+Our dataverse collection</a>
+</h4>
+
+<br>
 
 <div class="sectionDescription border">
-<a href="#" title="Image Source: http://info.tectrade.com/blog/cost-effective-archiving/">
-<img src="{{ site.url }}/images/data_page_folder/Archiving.jpg"   class="sectionImage">
+<img class= "sectionImage" style="height: 120px;" src="{{ site.url }}/images/three.png">
 </a>
 
-<h4 id="about"><a href="#">About the collection</a></h4>
-<p>The VEC data repository hosts a growing collection of digital research data and documentation.
+<h4 id="about">Our digital collection</h4>
+<p class="text-justify">
+<a href="https://dataverse.harvard.edu/dataverse/vec" target="_blank">The VEC data repository </a>
+hosts a growing collection of digital research data and documentation.
 The repository was set up to meet  funder, publishers and the research community need for good data management 
 practices with an emphasis on long-term preservation, discovery and open research.
-Embedded within the Research Data Life Cycle, the repository offers services for managing, archiving, preserving and data sharing.
-
-<a href="https://dataverse.harvard.edu/dataverse/vec" target="_blank">&raquo;</a> </p>
+Embedded within the Research Data Life Cycle, the repository offers services for managing, archiving, 
+preserving and data sharing.
+</p>
 
 <div class="clearer"></div>
 
@@ -59,14 +59,15 @@ Embedded within the Research Data Life Cycle, the repository offers services for
 
 <div class="sectionDescription border">
 
-<img src="{{ site.url }}/images/data_page_folder/curation_cycle.png" class="sectionImage">
+<img class="sectionImage" style="height: 120px;" src="{{ site.url }}/images/data-management.png">
 </a>
-<h4 id="services"><a href="#">Data Management and Curation Services</a></h4>
-<p>In order to accommodate the varying data management needs of the research community,
-  the VEC Repository strives to provided multiple data management and curation services that go beyond simple file upload and storage.
+<h4 id="services">Data curation</h4>
+<p class="text-justify">
+  The VEC Repository strives to provided multiple data management and curation services
+  that go beyond simple file upload and storage.
   A variety of specialised services are also available including file migration and normalization,
   code replication review, de-identification, access policy enforcement, user support and training.
-  </p>
+</p>
 
   <div class="clearer">
   </div>
@@ -76,36 +77,23 @@ Embedded within the Research Data Life Cycle, the repository offers services for
 
 
   <div class="sectionDescription border">
-  <a href="#" title="Image Source: https://www.slideshare.net/carlystrasser/niso-webinar-on-data-curation-part-2-of-2">
-  <img src="{{ site.url }}/images/data_page_folder/tools.jpg" class="sectionImage">
-  </a>
-  <h4 id="toolkit"><a href="#">Data Management Toolkit</a></h4>
-  <p>
-  Planning for research data management is both a good practice and a necessity
-  as funders and journals continue to expand their data management and sharing mandates.
+  
+  <img class="sectionImage" style="height: 120px;" src="{{ site.url }}/images/people.png">
+
+  <h4 id="toolkit">Data management approach</h4>
+  <p class="text-justify">
   Repository staff work with researchers to provide information on key
   considerations for managing their research data, outlining the details
   of funder and other stakeholder requirements, and identifying appropriate
   resources to assist in preparing and executing data management and preservation plans.
 
-  <h6>Quick Links</h6>
-  <ul>
-  <li><a href="https://dmptool.org/" target="_blank">DMPTool</a></li> <br>
-  <li><a href="https://dmponline.dcc.ac.uk/" target="_blank">DMPOnline</a></li> <br>
-  <li><a href="http://www.dcc.ac.uk/sites/default/files/documents/resource/DMP/DMP_Checklist_2013.pdf" target="_blank"> Data Management Checklist</a></li> <br>
-  <li><a href="http://baraza/sites/doc/_layouts/15/WopiFrame.aspx?sourcedoc=/sites/doc/ResearchPoliciesAndGuidelines/Data%20Sharing%20guidelines%20final%20v%201%200%2006March2015-1%20revision_25Aug2015_final.docx&action=default&DefaultItemOpen=1" target="_blank">Data Sharing Guidance</a> </li> <br>
-  <li><a href="https://www.ukdataservice.ac.uk/deposit-data/preparing-data" target="_blank">Tips on preparing and managing your data (UK Data archive)</a></li>
-  </ul>
-  </p>
+<hr>
 
-  <div class="clearer">
   </div>
 
- </div>
-
- </div>
- </div> <!--containerRight-->
- </div>
- </div>
- </div>
- </div>
+  </div>
+  </div> <!--containerRight-->
+  </div>
+  </div>
+  </div>
+  </div>
