@@ -91,7 +91,6 @@ homepage: true
   </div>
 
   </div>
-  </section>
 
   <hr>
   <div class="row">
