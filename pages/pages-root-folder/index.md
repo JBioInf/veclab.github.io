@@ -34,6 +34,7 @@ homepage: true
 <a href="{{ site.url }}/blog" class="button radius">Read our Blog</a>
 <a href="{{ site.url }}/contact" class="button radius">Contact us</a>
 </center>
+</section>
 
   <!-- Three columns of text below the carousel -->
   <div class="row">
