@@ -36,8 +36,7 @@ homepage: true
 </center>
 -->
 <section>
-
-	<!-- START THE FEATURETTES -->
+<!-- START THE FEATURETTES -->
 
   <!-- Three columns of text below the carousel -->
   <div class="row">
@@ -51,10 +50,10 @@ homepage: true
   <img class="img-rounded;" style="background: #E4E4E4; height: 150px;" src="{{ site.url }}/images/hompepage_img/agoti-ve-2017.png" alt="Agoti et al">
 
   <p class="text-justify">
-  In a recent paper, <a href="{{ site.url }}/charles-agoti">Charles Agoti</a> and colleagues describe the 
+  In a recent paper, <a href="{{ site.url }}/charles-agoti">Charles Agoti</a> and colleagues describe the
   <a href="https://academic.oup.com/ve/article-lookup/doi/10.1093/ve/vex006">transmission patterns
-  and evolution of respiratory syncytial virus in the community using genomic analysis </a>. The findings 
-  support the hypothesis that RSV transmission within households is common among members of the same household. 
+  and evolution of respiratory syncytial virus in the community using genomic analysis </a>. The findings
+  support the hypothesis that RSV transmission within households is common among members of the same household.
   </p>
 
   </div><!-- /.col-lg-4 -->
@@ -68,17 +67,17 @@ homepage: true
   <img class="img-rounded" style="background: #E4E4E4; height: 150px;" src="{{ site.url }}/images/Joyce-Nyiro.jpg" alt="Joyce Nyiro">
   <p class="text-justify">
   <a href="{{ site.url }}/joyce-nyiro">Joyce Nyiro</a>,
-  a research officer studying mechanisms for quantifying maternally derived protective 
-  immunity correlates for RSV, was awarded a fully-funded place at the 
+  a research officer studying mechanisms for quantifying maternally derived protective
+  immunity correlates for RSV, was awarded a fully-funded place at the
   <a href="http://www.jenner.ac.uk/vaccinology-in-africa-course">2017 Vaccinology in Africa course</a>.
-  The course received 268 applications for 40 bursary places, 20 of which were reserved for Ugandan residents 
+  The course received 268 applications for 40 bursary places, 20 of which were reserved for Ugandan residents
   and 20 places for other East African residents</p>
   </div><!-- /.col-lg-4 -->
 
 
   <div class="large-4 columns text-center" style="border-left: dotted #d8d8d8 1px;">
   <div id="twittertimeline">
-  <a class="twitter-timeline" data-lang="en" data-width="350" data-height="400" data-theme="light" data-link-color="#19CF86" 
+  <a class="twitter-timeline" data-lang="en" data-width="350" data-height="400" data-theme="light" data-link-color="#19CF86"
   href="https://twitter.com/veclab_KEMRI_WT">
   Tweets by veclab_KEMRI_WT</a>
   <script async src="//platform.twitter.com/widgets.js" charset="utf-8">
@@ -91,6 +90,7 @@ homepage: true
   </div>
 
   </div>
+</section>
 
   <hr>
   <div class="row">
