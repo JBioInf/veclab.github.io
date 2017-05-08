@@ -54,4 +54,9 @@ resources to assist in preparing and executing data management and preservation 
 <hr>
 
 <h3><a href="https://dataverse.harvard.edu/dataverse/vec" target="_blank" >Browse our dataverse collection</a></h3>
+<p> If you have an interest in accessing particular study data or archived materials, 
+<a href="mailto:dgc@kemri-wellcome.org"> 
+contact KEMRI-Wellcome Trust Data Governance Committee </a>
+
+</p>
 
