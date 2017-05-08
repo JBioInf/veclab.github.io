@@ -56,7 +56,3 @@ resources to assist in preparing and executing data management and preservation 
 
 <h3><a href="https://dataverse.harvard.edu/dataverse/vec" target="_blank" >Browse our dataverse collection</a></h3>
 
-</div>
-</div>
-</div>
-
