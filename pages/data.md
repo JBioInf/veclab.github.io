@@ -10,7 +10,6 @@ permalink: "/data/"
 
 <div class="sectionDescription border">
 <img class= "sectionImage" style="height: 120px;" src="{{ site.url }}/images/three.png">
-</a>
 
 
 <p class="text-justify">
@@ -30,7 +29,7 @@ preserving and data sharing.
 
 
 <div class="sectionDescription border">
-<img class="sectionImage" style="height: 120px;" src="{{ site.url }}/images/data-management.png"></a>
+<img class="sectionImage" style="height: 120px;" src="{{ site.url }}/images/data-management.png">
 <h4>Data curation</h4>
 
 <p class="text-justify">
