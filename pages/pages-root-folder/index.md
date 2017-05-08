@@ -78,7 +78,6 @@ support the hypothesis that RSV transmission within households is common among m
   data-size="large">
   Follow @veclab_KEMRI_WT</a>
   </div>
-  </section>
   </div>
 
   <hr>
