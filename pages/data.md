@@ -6,7 +6,7 @@ permalink: "/data/"
 
 <div class="row">
 <div class="large-12 columns">
-<h3>VEC open data repository</h3>
+<h3>The VEC-group open data repository</h3>
 
 <div class="sectionDescription border">
 <img class= "sectionImage" style="height: 120px;" src="{{ site.url }}/images/three.png">
@@ -15,7 +15,7 @@ permalink: "/data/"
 <p class="text-justify">
 <a href="https://dataverse.harvard.edu/dataverse/vec" target="_blank">The VEC data repository </a>
 hosts a growing collection of digital research data and documentation.
-The repository was set up to meet  funder, publishers and the research
+This repository was set up to meet  funder, publishers and the research
 community need for good data management practices with an emphasis on
 long-term preservation, discovery and open research. 
 </p>
@@ -23,6 +23,9 @@ long-term preservation, discovery and open research.
  research data life cycle, the repository offers services for managing, archiving,
 preserving and data sharing.
 </p>
+
+<h3><a href="https://dataverse.harvard.edu/dataverse/vec" target="_blank" >Browse our dataverse collection</a></h3>
+
 </div>
 
 <hr>
@@ -50,10 +53,19 @@ Repository staff work with researchers to provide information on key
 considerations for managing their research data, outlining the details
 of funder and other stakeholder requirements, and identifying appropriate
 resources to assist in preparing and executing data management and preservation plans.
+<p>
+Some of the tools that we use or recommmend include,
+</p>
+<ul>
+<li><a href="https://dmptool.org/" target="_blank">DMPTool</a></li> <br>
+<li><a href="https://dmponline.dcc.ac.uk/" target="_blank">DMPOnline</a></li> <br>
+<li><a href="http://www.dcc.ac.uk/sites/default/files/documents/resource/DMP/DMP_Checklist_2013.pdf" target="_blank"> Data Management Checklist</a></li> <br>
+<li><a href="http://baraza/sites/doc/_layouts/15/WopiFrame.aspx?sourcedoc=/sites/doc/ResearchPoliciesAndGuidelines/Data%20Sharing%20guidelines%20final%20v%201%200%2006March2015-1%20revision_25Aug2015_final.docx&action=default&DefaultItemOpen=1" target="_blank">Data Sharing Guidance</a> </li> <br>
+<li><a href="https://www.ukdataservice.ac.uk/deposit-data/preparing-data" target="_blank">Tips on preparing and managing your data (UK Data archive)</a></li>
+</ul>
 
 <hr>
 
-<h3><a href="https://dataverse.harvard.edu/dataverse/vec" target="_blank" >Browse our dataverse collection</a></h3>
 <p> If you have an interest in accessing particular study data or archived materials, 
 <a href="mailto:dgc@kemri-wellcome.org"> 
 contact KEMRI-Wellcome Trust Data Governance Committee </a>
