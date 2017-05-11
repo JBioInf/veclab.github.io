@@ -6,10 +6,12 @@ homepage: true
 ---
 
 <div class="row-30">
+<center>
   <div class="small-12 small-centered columns">
    <!-- <img src="{{ site.url }}/images/banner3.png" alt="VEC GROUP">  -->
-   <img src="{{ site.url }}/images/hompepage_img/veclab_members.jpg" alt="VEC GROUP">
+   <img src="{{ site.url }}/images/veclab-members.jpg" alt="VEC GROUP">
   </div>
+  </center>
 </div>
 <br>
 
@@ -18,9 +20,15 @@ homepage: true
 <div>
 <section>
 <center>
-<h3>About Us</h3>
 <p>
-The Virus Epidemiology and Control Research Group is located in Kenya, at the <a href="http://www.kemri-wellcome.org" target="_blank"><strong>KEMRI-Wellcome Trust Research Programme</strong></a>, we conduct intensive and long term studies into population dynamics of viral pathogens informing intervention strategies.
+<h3>The Virus Epidemiology and Control Research Group</h3>
+</p>
+<p>
+We conduct intensive long term studies into population dynamics of viral pathogens informing intervention strategies
+</p>
+
+<p>
+We are located at the <a href="http://www.kemri-wellcome.org" target="_blank"><strong>KEMRI-Wellcome Trust Research Programme</strong></a>
 </p>
 </center>
 </section>
