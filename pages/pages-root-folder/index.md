@@ -62,14 +62,10 @@ support the hypothesis that RSV transmission within households is common among m
 <h5>Award </h5>
 </div>
 <br>
-<img class="img-rounded" style="background: #E4E4E4; height: 150px;" src="{{ site.url }}/images/Joyce-Nyiro.jpg" alt="Joyce Nyiro">
+<img class="img-rounded" style="background: #E4E4E4; height: 150px;" src="{{ site.url }}/images/George-Githinji.jpg" alt="George Githinji">
 <p class="text-justify">
-<a href="{{ site.url }}/joyce-nyiro">Joyce Nyiro</a>,
-  a research officer studying mechanisms for quantifying maternally derived protective
-  immunity correlates for RSV, was awarded a fully-funded place at the
-  <a href="http://www.jenner.ac.uk/vaccinology-in-africa-course">2017 Vaccinology in Africa course</a>.
-  The course received 268 applications for 40 bursary places, 20 of which were reserved for Ugandan residents
-  and 20 places for other East African residents</p>
+<a href="{{ site.url }}/george-githinji">George Githinji</a>, a postdoc investigating RSV quasispecies diversity,  has recieved an <a href="http://www.afox.ox.ac.uk" >Africa-Oxford </a> collaborative travel grant from the Africa-Oxford Initiative (Af-Ox). The £5000 grant will facilitate collaborative research work between  the VEC group in Kilifi and Prof. Christophe's group at the Big Data Institute in Oxford, UK. 
+</p>
   </div><!-- /.col-lg-4 -->
 
 
