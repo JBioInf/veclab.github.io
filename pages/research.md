@@ -74,15 +74,15 @@ different scales of observation from the individual, household and school, local
 
           <div class="row">
           <div class="surround">
-          <div class="small-3  columns">						
-          <a href="#"><img src="{{ site.url }}/images/spred-kenya2.jpg" alt="" height="300" width="160"></a>
+          <div class="small-3  columns">
+          <a href="#"><img src="{{ site.url }}/images/spred-kenya.png" alt="" height="300" width="160"></a>
           </div>
-          <div class="small-9 columns">			
+          <div class="small-9 columns">
           <strong>Mapping transmission pathways of respiratory viruses in Kenya (SPReD-Kenya)</strong>
           <hr>
           This is a collaborative project utilizing respiratory specimens and associated de-identified 
           clinical data collected over a three-year period (2014-2016) from an existing influenza surveillance 
-          platform ... <a href="{{ site.url }}/spred-kenya"><span class="label">more</span></a> 			
+          platform ... <a href="{{ site.url }}/spred-kenya"><span class="label">more</span></a>
           </div>
           </div>
           </div>

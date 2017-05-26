@@ -45,7 +45,7 @@ We are located at the <a href="http://www.kemri-wellcome.org" target="_blank"><s
 <h5>New Article</h5>
 </div>
 <br>
-<img class="img-rounded;" style="background: #E4E4E4; height: 150px;" src="{{ site.url }}/images/hompepage_img/agoti-ve-2017.png" alt="Agoti et al">
+<img class="img-rounded;" style="background: #E4E4E4; height: 150px;" src="{{ site.url }}/images/homepage_img/agoti-ve-2017.png" alt="Agoti et al">
 
 <p class="text-justify">
 In a recent paper, <a href="{{ site.url }}/charles-agoti">Charles Agoti</a> and colleagues describe the
