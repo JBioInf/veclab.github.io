@@ -16,7 +16,7 @@ comments: true
 author: Charles
 ---
 <figure> 
-  <center><img src="{{ site.url }}/images/hompepage_img/agoti-ve-2017.png" alt="" height="400" width="400"></center>
+  <center><img src="{{ site.url }}/images/homepage_img/agoti-ve-2017.png" alt="" height="400" width="400"></center>
 </figure>
 
 <p class="text-justify lead">
