@@ -45,18 +45,16 @@ We are located at the <a href="http://www.kemri-wellcome.org" target="_blank"><s
 <h5>New Article</h5>
 </div>
 <br>
-<img class="img-rounded;" style="background: #E4E4E4; height: 150px;" src="{{ site.url }}/images/homepage_img/agoti-ve-2017.png" alt="Agoti et al">
+<img class="img-rounded;" style="background: #E4E4E4; height: 150px;" src="{{ site.url }}/images/article_img/joyce-ivy-plos-one-2017.png" alt="Nyiro et al.">
 
 <p class="text-justify">
-In a recent paper, <a href="{{ site.url }}/charles-agoti">Charles Agoti</a> and colleagues describe the
-<a href="https://academic.oup.com/ve/article-lookup/doi/10.1093/ve/vex006">transmission patterns
-and evolution of respiratory syncytial virus in the community using genomic analysis </a>. The findings
-support the hypothesis that RSV transmission within households is common among members of the same household.
+In our recent publication, <a href="{{ site.url }}/ivy-kombe">Ivy Kombe</a> , <a href="{{ site.url }}/joyce-nyiro">Joyce Nyiro</a> and colleagues describe a
+<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177803">describe a catalytic model to determine the optimal age to vaccinate</a>. The findings are in line with previous work from a dynamic age-structured model, and adds to a growing body of evidence on the targets for an RSV vaccine. 
 </p>
 
 </div><!-- /.col-lg-4 -->
 
-<div class="large-4 columns  text-center" >
+<div class="large-4 columns text-center" >
 
 <div class="">
 <h5>Award </h5>

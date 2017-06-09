@@ -25,7 +25,7 @@ Respiratory syncytial virus has been recognized as a major viral cause of childh
 </p>
 
 <p class="text-justify lead">
-We used a simple catalytic model to determine the optimal age to vaccinate as suggested by age-seroprevalence data. This catalytic model estimates an average rate of infection based on the pattern of seroprevalence with age, in addition we estimated the rate of decay of maternal antibodies and calculated an average age of primary infection. We obtained estimates of 0.78/person/year for the rate of infection in the under 1 year age group and 1.69/person/year in the older age groups, leading to an average age at primary infection of 15 months.
+We <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177803">used a simple catalytic model</a> to determine the optimal age to vaccinate as suggested by age-seroprevalence data. This catalytic model estimates an average rate of infection based on the pattern of seroprevalence with age, in addition we estimated the rate of decay of maternal antibodies and calculated an average age of primary infection. We obtained estimates of 0.78/person/year for the rate of infection in the under 1 year age group and 1.69/person/year in the older age groups, leading to an average age at primary infection of 15 months.
 </p>
 
 <p class="text-justify lead">
