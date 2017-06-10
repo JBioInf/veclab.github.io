@@ -49,7 +49,7 @@ We are located at the <a href="http://www.kemri-wellcome.org" target="_blank"><s
 
 <p class="text-justify">
 In our recent publication, <a href="{{ site.url }}/ivy-kombe">Ivy Kombe</a> , <a href="{{ site.url }}/joyce-nyiro">Joyce Nyiro</a> and colleagues describe a
-<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177803">describe a catalytic model to determine the optimal age to vaccinate</a>. The findings are in line with previous work from a dynamic age-structured model, and adds to a growing body of evidence on the targets for an RSV vaccine. 
+<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177803">catalytic model to determine the optimal age to vaccinate</a>. The findings are in line with previous work from a dynamic age-structured model, and adds to a growing body of evidence on the targets for an RSV vaccine. 
 </p>
 
 </div><!-- /.col-lg-4 -->
