@@ -27,11 +27,11 @@ permalink: "/team/"
 <hr>
 
 <div class="row">
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/everlyn-kamau"><img src="{{ site.url }}/images/Everlyn-Kamau.jpg" alt="" height="90" width="100"></a></div><strong><a href="{{ site.url }}/everlyn-kamau">Everlyn Kamau</a></strong><div>Assistant research officer</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/everlyn-kamau"><img src="{{ site.url }}/images/Everlyn-Kamau.jpg" alt="" height="90" width="100"></a></div><strong><a href="{{ site.url }}/everlyn-kamau">Everlyn Kamau</a></strong><div>Research officer</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/mike-mwanga"><img class="publication" src="{{ site.url }}/images/Mike-Mwanga.jpg" alt=""></a></div><a href="{{ site.url }}/mike-mwanga">Mike Mwanga</a><div>Assistant research officer</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/john-aketch"><img class="publication" src="{{ site.url }}/images/John-Aketch.jpg" alt=""></a></div><a href="{{ site.url }}/john-aketch">John Aketch</a><div>Assistant research officer</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/grieven-otieno"><img class="publication" src="{{ site.url }}/images/Grieven-Otieno.jpg" alt=""></a></div><a href="{{ site.url }}/grieven-otieno">Grieven Otieno</a><div>Data Manager</div></div>
-<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/lilian-Mwango"><img class="publication" src="{{ site.url }}/images/Lilian-Mwango.jpeg" alt=""></a></div><a href="{{ site.url }}/lilian-mwango">Lilian Mwango</a><div>Data Manager</div></div>
+<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><a href="{{ site.url }}/lilian-Mwango"><img class="publication" src="{{ site.url }}/images/Lilian-Mwango.jpeg" alt=""></a></div><a href="{{ site.url }}/lilian-mwango">Lilian Mwango</a><div>Archivist</div></div>
 
 </div>
 
@@ -40,10 +40,10 @@ permalink: "/team/"
 <h6>Laboratory staff</h6>
 <div class="row">
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Anne-Bett.jpg" alt="" height="90" width="95"></div><strong>Ann Bett</strong><div>Lab manager</div></div>
-<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Martin-Mutunga.jpg" alt="" height="90" width="95"></div><strong>Martin Mutunga</strong><div>Lab technician</div></div>
+<div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Martin-Mutunga.jpg" alt="" height="90" width="95"></div><strong>Martin Mutunga</strong><div>Senior lab technician</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Clement-Lewa.jpg" alt="" height="90" width="95"></div><strong>Clement Lewa</strong><div>Lab technician</div></div>
 <div class="small-2 columns"><div style="background: #FFFFFF; height: 137px;"><img src="{{ site.url }}/images/Alex-Gichuki.jpg" alt="" height="90" width="95"></div><strong>Alex Gichuki</strong><div>Lab technician</div></div>
-<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><img class="" src="{{ site.url }}/images/Regina-Njeru.jpg" alt="" height="90" width="95"></div><strong>Regina Njeru</strong><div>Lab technician</div></div>
+<div class="small-2 columns end"><div style="background: #FFFFFF; height: 137px;"><img class="" src="{{ site.url }}/images/Regina-Njeru.jpg" alt="" height="90" width="95"></div><strong>Regina Njeru</strong><div>Senior lab technician</div></div>
 </div>
 
 <hr>
