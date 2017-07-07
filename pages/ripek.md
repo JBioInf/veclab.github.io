@@ -71,14 +71,12 @@ header: no
 <div class="large-12 columns">
 <strong>Genetic diversity and Temporal Patterns of group A rotavirus in Kilifi</strong>
 <p class="text-justify">
-Genetic diversity and Temporal Patterns of group A rotavirus in Kilifi
-The introduction of the RotarixTM vaccine into the public sphere makes it necessary to maintain constant surveillance and to heighten public awareness of the appearance of new rotavirus strains. Exploring the epidemiology and genetic diversity of circulating rotavirus strains is necessary to understand rotavirus evolution and to measure how genetic and antigenic changes might affect the effectiveness of the vaccine. The results also contribute to the understanding of the diversity and evolution of rotaviruses in a global context.
+The introduction of the RotarixTM vaccine into the public sphere makes it necessary to maintain constant surveillance and to heighten public awareness of the appearance of new rotavirus strains. Exploring the epidemiology and genetic diversity of circulating rotavirus strains is necessary to understand rotavirus evolution and to measure how genetic and antigenic changes might alter the effectiveness of the vaccine. The results also contribute to the understanding of the diversity and evolution of rotaviruses in a global context.
 </p>
 <p><Strong>PI:</Strong> James Nokes</p>
 
 <p><Strong>Funding:</Strong> GAVI</p>
 
-<p><Strong>Collaborators:</Strong> Betty E. Owor, Kathyrn Maitland, Rob Breiman</p>
 </div>
 </div>
 </div>
