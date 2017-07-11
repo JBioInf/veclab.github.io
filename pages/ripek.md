@@ -56,29 +56,45 @@ header: no
 <div class="row">
 <div class="large-12 columns">
 <h3 class="light centered-text" itemprop="headline">Rotavirus Immunization Program Evaluation Kenya (RIPEK)</h3>
+<div class="large-12 columns">
+<p>
+A comprehensive countrywide evaluation of the introduction of rotavirus vaccination in Kenya. This is collaborative with CDC-Kenya, WRP-Kenya, Kenya MoH, and CDC and Emory Atlanta, USA. Central is a before-after evaluation of impact on disease incidence which will also assess replacement and origins of genotypes and variants using partial and whole genome sequencing.
+</p>
+
+<p><Strong>Funding:</Strong> GAVI</p>
+
+<p><Strong>PI:</Strong> James Nokes</p>
+
+<p><Strong>Collaborators:</Strong> Kathyrn Maitland, Robert Breiman, Umesh Parashar, Jacqueline Tate, Jennifer Verani, Addo Yaw</p>
 </div>
 </div>
 <br>
 <div class="row">
 <div class="large-12 columns">
 <p>
-<img align="justify" src="{{ site.url }}/images/rota_positive_2010_2017.png" alt="" height="" width="">
 </p>
 </div>
 </div>
-
 <div class="row">
 <div class="large-12 columns">
-<strong>Genetic diversity and Temporal Patterns of group A rotavirus in Kilifi</strong>
+<strong>1. Impact of Rotavirus vaccination on childhood related diarrhoea and mortality in Kenya</strong>
 <p class="text-justify">
-Genetic diversity and Temporal Patterns of group A rotavirus in Kilifi
-The introduction of the RotarixTM vaccine into the public sphere makes it necessary to maintain constant surveillance and to heighten public awareness of the appearance of new rotavirus strains. Exploring the epidemiology and genetic diversity of circulating rotavirus strains is necessary to understand rotavirus evolution and to measure how genetic and antigenic changes might affect the effectiveness of the vaccine. The results also contribute to the understanding of the diversity and evolution of rotaviruses in a global context.
+<img align="justify" src="{{ site.url }}/images/Trends_Diarrhoea_RIPEK.png" alt="" height="" width="">
+<p>
+Most severe cases of acute gastroenteritis in children have been linked to group A rotavirus (RVA) as the leading etiological agent. The inclusion of RVA vaccine in the childhood immunization programme in Kenya, was aimed at drastically reducing the disease burden due to rotavirus gastroenteritis. This study is a national-wide surveillance network that focuses in monitoring trends in hospitalizations and mortality from RVA-cause acute gastroenteritis among children during pre and post-vaccination periods. This will offer valuable measures of the long-term impact of RVA vaccine on the burden of diarrhoea-related hospitalizations in Kenya.
+</div>
+</div>
+<br>
+</div>
+</div>
+<div class="row">
+<div class="large-12 columns">
+<strong>2. Genetic diversity and Temporal Patterns of group A rotavirus in Kilifi</strong>
+<p class="text-justify">
+<img align="justify" src="{{ site.url }}/images/Genotypes_Distribution_2010_2016.png" alt="" height="" width="">
+<p>
+The introduction of the Rotarix vaccine into the public sphere makes it necessary to maintain a constant surveillance and to heighten public awareness of the appearance of new rotavirus strains. Exploring the epidemiology and genetic diversity of circulating rotavirus strains is necessary to understand rotavirus evolution and to measure how genetic and antigenic changes might affect the perfomance of the vaccine. The results also contribute to the understanding of the diversity and evolution of rotaviruses in the global context.
 </p>
-<p><Strong>PI:</Strong> James Nokes</p>
-
-<p><Strong>Funding:</Strong> GAVI</p>
-
-<p><Strong>Collaborators:</Strong> Betty E. Owor, Kathyrn Maitland, Rob Breiman</p>
 </div>
 </div>
 </div>
