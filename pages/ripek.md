@@ -91,7 +91,7 @@ Most severe cases of acute gastroenteritis in children have been linked to group
 <div class="large-12 columns">
 <strong>2. Genetic diversity and Temporal Patterns of group A rotavirus in Kilifi</strong>
 <p class="text-justify">
-<img align="justify" src="{{ site.url }}/images/Genotypes_Distribution_2010_2016.png" alt="" height="" width="">
+<img align="justify" src="{{ site.url }}/images/Genotype_distribution_2010_2016.png" alt="" height="" width="">
 <p>
 The introduction of the Rotarix vaccine into the public sphere makes it necessary to maintain a constant surveillance and to heighten public awareness of the appearance of new rotavirus strains. Exploring the epidemiology and genetic diversity of circulating rotavirus strains is necessary to understand rotavirus evolution and to measure how genetic and antigenic changes might affect the perfomance of the vaccine. The results also contribute to the understanding of the diversity and evolution of rotaviruses in the global context.
 </p>
